@@ -1,0 +1,26 @@
+{
+    "name": "assnat"
+  , "description": "Rendre exploitables les données de l'assemblée nationale du Québec."
+  , "version": "0.0.1"
+  , "author": "Martin Angers <martin.n.angers@gmail.com>"
+  , "private": true
+  , "dependencies": {
+    "jsdom": "0.x"
+  , "see-no-evil": "0.x"
+  , "request": "2.x"
+  , "mongodb": "1.x"
+  , "mailer": "0.x"
+  }
+  , "devDependencies": {
+    "mocha": "1.x"
+  , "expect.js": "0.x"
+  , "sinon": "1.x"
+  }
+  , "scripts": {
+    "test": "make test"
+  , "start": "make run"
+  }
+  , "engines": { 
+    "node": ">= 0.6"
+  }
+}

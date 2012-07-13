@@ -1,0 +1,5 @@
+db.deputies.ensureIndex({id: 1}, {unique: true})
+db.meetings.ensureIndex({id: 1}, {unique: true})
+db.interventions.ensureIndex({id: 1}, {unique: true})
+db.interventions.ensureIndex({meetingId: 1})
+print('done')

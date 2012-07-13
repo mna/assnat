@@ -1,0 +1,1828 @@
+8,9c8,9
+<    [ { speaker: 'Le Vice-Président (M. Gendron):',
+<        subject: '',
+---
+>    [ { subject: '',
+>        speaker: 'Le Vice-Président (M. Gendron):',
+14,15c14,15
+<      { speaker: 'Le Vice-Président (M. Gendron):',
+<        subject: 'Affaires courantes',
+---
+>      { subject: 'Affaires courantes',
+>        speaker: 'Le Vice-Président (M. Gendron):',
+20,21c20,21
+<      { speaker: 'Mme James:',
+<        subject: 'Souligner le 20e anniversaire de l\'Association des haltes-garderies communautaires du Québec',
+---
+>      { subject: 'Souligner le 20e anniversaire de l\'Association des haltes-garderies communautaires du Québec',
+>        speaker: 'Mme James:',
+26,27c26,27
+<      { speaker: 'Le Vice-Président (M. Gendron):',
+<        subject: 'Souligner le 20e anniversaire de l\'Association des haltes-garderies communautaires du Québec',
+---
+>      { subject: 'Souligner le 20e anniversaire de l\'Association des haltes-garderies communautaires du Québec',
+>        speaker: 'Le Vice-Président (M. Gendron):',
+32,33c32,33
+<      { speaker: 'M. Pagé:',
+<        subject: 'Féliciter la municipalité de Mont-Tremblant, hôtesse de compétitions de triathlon Ironman et demi-Ironman',
+---
+>      { subject: 'Féliciter la municipalité de Mont-Tremblant, hôtesse de compétitions de triathlon Ironman et demi-Ironman',
+>        speaker: 'M. Pagé:',
+38,39c38,39
+<      { speaker: 'Le Vice-Président (M. Gendron):',
+<        subject: 'Féliciter la municipalité de Mont-Tremblant, hôtesse de compétitions de triathlon Ironman et demi-Ironman',
+---
+>      { subject: 'Féliciter la municipalité de Mont-Tremblant, hôtesse de compétitions de triathlon Ironman et demi-Ironman',
+>        speaker: 'Le Vice-Président (M. Gendron):',
+44,45c44,45
+<      { speaker: 'M. Morin:',
+<        subject: 'Féliciter le Carrefour jeunesse-emploi de la MRC de L\'Islet, lauréat du prix LOJIQ Insertion professionnelle',
+---
+>      { subject: 'Féliciter le Carrefour jeunesse-emploi de la MRC de L\'Islet, lauréat du prix LOJIQ Insertion professionnelle',
+>        speaker: 'M. Morin:',
+50,51c50,51
+<      { speaker: 'Le Vice-Président (M. Gendron):',
+<        subject: 'Féliciter le Carrefour jeunesse-emploi de la MRC de L\'Islet, lauréat du prix LOJIQ Insertion professionnelle',
+---
+>      { subject: 'Féliciter le Carrefour jeunesse-emploi de la MRC de L\'Islet, lauréat du prix LOJIQ Insertion professionnelle',
+>        speaker: 'Le Vice-Président (M. Gendron):',
+56,57c56,57
+<      { speaker: 'M. Bergeron:',
+<        subject: 'Souligner l\'ordination épiscopale du curé Raymond Poisson',
+---
+>      { subject: 'Souligner l\'ordination épiscopale du curé Raymond Poisson',
+>        speaker: 'M. Bergeron:',
+62,63c62,63
+<      { speaker: 'Le Vice-Président (M. Gendron):',
+<        subject: 'Souligner l\'ordination épiscopale du curé Raymond Poisson',
+---
+>      { subject: 'Souligner l\'ordination épiscopale du curé Raymond Poisson',
+>        speaker: 'Le Vice-Président (M. Gendron):',
+68,69c68,69
+<      { speaker: 'Mme Roy:',
+<        subject: 'Féliciter Bianca Martineau-Ferland, nageuse synchronisée de Sainte-Agathe-de-Lotbinière, pour sa performance aux Championnats canadiens ouverts',
+---
+>      { subject: 'Féliciter Bianca Martineau-Ferland, nageuse synchronisée de Sainte-Agathe-de-Lotbinière, pour sa performance aux Championnats canadiens ouverts',
+>        speaker: 'Mme Roy:',
+74,75c74,75
+<      { speaker: 'Le Vice-Président (M. Gendron):',
+<        subject: 'Féliciter Bianca Martineau-Ferland, nageuse synchronisée de Sainte-Agathe-de-Lotbinière, pour sa performance aux Championnats canadiens ouverts',
+---
+>      { subject: 'Féliciter Bianca Martineau-Ferland, nageuse synchronisée de Sainte-Agathe-de-Lotbinière, pour sa performance aux Championnats canadiens ouverts',
+>        speaker: 'Le Vice-Président (M. Gendron):',
+80,81c80,81
+<      { speaker: 'M. Chevarie:',
+<        subject: 'Féliciter Vincent Arseneau, des Îles-de-la-Madeleine, membre de l\'équipe de hockey les Cataractes de Shawinigan gagnante de la coupe Memorial',
+---
+>      { subject: 'Féliciter Vincent Arseneau, des Îles-de-la-Madeleine, membre de l\'équipe de hockey les Cataractes de Shawinigan gagnante de la coupe Memorial',
+>        speaker: 'M. Chevarie:',
+86,87c86,87
+<      { speaker: 'Le Vice-Président (M. Gendron):',
+<        subject: 'Féliciter Vincent Arseneau, des Îles-de-la-Madeleine, membre de l\'équipe de hockey les Cataractes de Shawinigan gagnante de la coupe Memorial',
+---
+>      { subject: 'Féliciter Vincent Arseneau, des Îles-de-la-Madeleine, membre de l\'équipe de hockey les Cataractes de Shawinigan gagnante de la coupe Memorial',
+>        speaker: 'Le Vice-Président (M. Gendron):',
+92,93c92,93
+<      { speaker: 'M. Boucher:',
+<        subject: 'Féliciter les élèves de l\'école du Triolet, de Sherbrooke, pour leur participation au projet Planter de l\'air pur',
+---
+>      { subject: 'Féliciter les élèves de l\'école du Triolet, de Sherbrooke, pour leur participation au projet Planter de l\'air pur',
+>        speaker: 'M. Boucher:',
+98,99c98,99
+<      { speaker: 'Le Vice-Président (M. Ouimet):',
+<        subject: 'Féliciter les élèves de l\'école du Triolet, de Sherbrooke, pour leur participation au projet Planter de l\'air pur',
+---
+>      { subject: 'Féliciter les élèves de l\'école du Triolet, de Sherbrooke, pour leur participation au projet Planter de l\'air pur',
+>        speaker: 'Le Vice-Président (M. Ouimet):',
+104,105c104,105
+<      { speaker: 'M. Gendron:',
+<        subject: 'Féliciter l\'école de l\'Envol, de La Sarre, école Coup de coeur Pierre-Lavoie',
+---
+>      { subject: 'Féliciter l\'école de l\'Envol, de La Sarre, école Coup de coeur Pierre-Lavoie',
+>        speaker: 'M. Gendron:',
+110,111c110,111
+<      { speaker: 'Le Vice-Président (M. Ouimet):',
+<        subject: 'Féliciter l\'école de l\'Envol, de La Sarre, école Coup de coeur Pierre-Lavoie',
+---
+>      { subject: 'Féliciter l\'école de l\'Envol, de La Sarre, école Coup de coeur Pierre-Lavoie',
+>        speaker: 'Le Vice-Président (M. Ouimet):',
+116,117c116,117
+<      { speaker: 'Mme Vallée:',
+<        subject: 'Souligner le 20e anniversaire du Centre d\'interprétation de l\'histoire de la protection de la forêt contre le feu',
+---
+>      { subject: 'Souligner le 20e anniversaire du Centre d\'interprétation de l\'histoire de la protection de la forêt contre le feu',
+>        speaker: 'Mme Vallée:',
+122,123c122,123
+<      { speaker: 'Le Vice-Président (M. Ouimet):',
+<        subject: 'Souligner le 20e anniversaire du Centre d\'interprétation de l\'histoire de la protection de la forêt contre le feu',
+---
+>      { subject: 'Souligner le 20e anniversaire du Centre d\'interprétation de l\'histoire de la protection de la forêt contre le feu',
+>        speaker: 'Le Vice-Président (M. Ouimet):',
+128,129c128,129
+<      { speaker: 'Le Président:',
+<        subject: '',
+---
+>      { subject: '',
+>        speaker: 'Le Président:',
+134,135c134,135
+<      { speaker: 'Le Président:',
+<        subject: 'Présence du sénateur Serge Joyal',
+---
+>      { subject: 'Présence du sénateur Serge Joyal',
+>        speaker: 'Le Président:',
+140,141c140,141
+<      { speaker: 'Le Président:',
+<        subject: 'Dépôt de documents',
+---
+>      { subject: 'Dépôt de documents',
+>        speaker: 'Le Président:',
+146,147c146,147
+<      { speaker: 'Mme Courchesne:',
+<        subject: 'Rapport annuel de la Commission administrative des régimes de retraite et d\'assurances',
+---
+>      { subject: 'Rapport annuel de la Commission administrative des régimes de retraite et d\'assurances',
+>        speaker: 'Mme Courchesne:',
+152,153c152,153
+<      { speaker: 'Le Président:',
+<        subject: 'Rapport annuel de la Commission administrative des régimes de retraite et d\'assurances',
+---
+>      { subject: 'Rapport annuel de la Commission administrative des régimes de retraite et d\'assurances',
+>        speaker: 'Le Président:',
+158,159c158,159
+<      { speaker: 'M. Gignac:',
+<        subject: 'Rapport annuel de la Société de développement de la Baie-James',
+---
+>      { subject: 'Rapport annuel de la Société de développement de la Baie-James',
+>        speaker: 'M. Gignac:',
+164,165c164,165
+<      { speaker: 'Le Président:',
+<        subject: 'Rapport annuel de la Société de développement de la Baie-James',
+---
+>      { subject: 'Rapport annuel de la Société de développement de la Baie-James',
+>        speaker: 'Le Président:',
+170,171c170,171
+<      { speaker: 'M. Fournier:',
+<        subject: 'Réponses à des pétitions',
+---
+>      { subject: 'Réponses à des pétitions',
+>        speaker: 'M. Fournier:',
+176,177c176,177
+<      { speaker: 'Le Président:',
+<        subject: 'Réponses à des pétitions',
+---
+>      { subject: 'Réponses à des pétitions',
+>        speaker: 'Le Président:',
+182,183c182,183
+<      { speaker: 'Le Président:',
+<        subject: 'Dépôt de rapports de commissions',
+---
+>      { subject: 'Dépôt de rapports de commissions',
+>        speaker: 'Le Président:',
+188,189c188,189
+<      { speaker: 'Mme Malavoy:',
+<        subject: 'Étude détaillée du projet de loi n° 69',
+---
+>      { subject: 'Étude détaillée du projet de loi n° 69',
+>        speaker: 'Mme Malavoy:',
+194,195c194,195
+<      { speaker: 'Le Président:',
+<        subject: 'Étude détaillée du projet de loi n° 69',
+---
+>      { subject: 'Étude détaillée du projet de loi n° 69',
+>        speaker: 'Le Président:',
+200,201c200,201
+<      { speaker: 'Le Président:',
+<        subject: 'Dépôt de pétitions',
+---
+>      { subject: 'Dépôt de pétitions',
+>        speaker: 'Le Président:',
+206,207c206,207
+<      { speaker: 'Mme Champagne:',
+<        subject: 'Revoir la décision d\'implanter un programme d\'anglais intensif obligatoire en sixième année dans les écoles francophones',
+---
+>      { subject: 'Revoir la décision d\'implanter un programme d\'anglais intensif obligatoire en sixième année dans les écoles francophones',
+>        speaker: 'Mme Champagne:',
+212,213c212,213
+<      { speaker: 'Le Président:',
+<        subject: 'Revoir la décision d\'implanter un programme d\'anglais intensif obligatoire en sixième année dans les écoles francophones',
+---
+>      { subject: 'Revoir la décision d\'implanter un programme d\'anglais intensif obligatoire en sixième année dans les écoles francophones',
+>        speaker: 'Le Président:',
+218,219c218,219
+<      { speaker: 'M. Khadir:',
+<        subject: 'Instituer une enquête indépendante sur les interventions policières lors des événements entourant le conflit sur la hausse des droits de scolarité',
+---
+>      { subject: 'Instituer une enquête indépendante sur les interventions policières lors des événements entourant le conflit sur la hausse des droits de scolarité',
+>        speaker: 'M. Khadir:',
+224,225c224,225
+<      { speaker: 'Le Président:',
+<        subject: 'Instituer une enquête indépendante sur les interventions policières lors des événements entourant le conflit sur la hausse des droits de scolarité',
+---
+>      { subject: 'Instituer une enquête indépendante sur les interventions policières lors des événements entourant le conflit sur la hausse des droits de scolarité',
+>        speaker: 'Le Président:',
+230,231c230,231
+<      { speaker: 'M. Gaudreault:',
+<        subject: 'Revoir la décision d\'implanter un programme d\'anglais intensif obligatoire en sixième année dans les écoles francophones',
+---
+>      { subject: 'Revoir la décision d\'implanter un programme d\'anglais intensif obligatoire en sixième année dans les écoles francophones',
+>        speaker: 'M. Gaudreault:',
+236,237c236,237
+<      { speaker: 'Le Président:',
+<        subject: 'Revoir la décision d\'implanter un programme d\'anglais intensif obligatoire en sixième année dans les écoles francophones',
+---
+>      { subject: 'Revoir la décision d\'implanter un programme d\'anglais intensif obligatoire en sixième année dans les écoles francophones',
+>        speaker: 'Le Président:',
+242,243c242,243
+<      { speaker: 'Une voix:',
+<        subject: 'Revoir la décision d\'implanter un programme d\'anglais intensif obligatoire en sixième année dans les écoles francophones',
+---
+>      { subject: 'Revoir la décision d\'implanter un programme d\'anglais intensif obligatoire en sixième année dans les écoles francophones',
+>        speaker: 'Une voix:',
+248,249c248,249
+<      { speaker: 'Le Président:',
+<        subject: 'Revoir la décision d\'implanter un programme d\'anglais intensif obligatoire en sixième année dans les écoles francophones',
+---
+>      { subject: 'Revoir la décision d\'implanter un programme d\'anglais intensif obligatoire en sixième année dans les écoles francophones',
+>        speaker: 'Le Président:',
+254,255c254,255
+<      { speaker: 'Le Président:',
+<        subject: 'Questions et réponses orales',
+---
+>      { subject: 'Questions et réponses orales',
+>        speaker: 'Le Président:',
+260,261c260,261
+<      { speaker: 'M. St-Arnaud:',
+<        subject: 'Gestion du Programme de soutien aux installations sportives et récréatives',
+---
+>      { subject: 'Gestion du Programme de soutien aux installations sportives et récréatives',
+>        speaker: 'M. St-Arnaud:',
+266,267c266,267
+<      { speaker: 'Le Président:',
+<        subject: 'Gestion du Programme de soutien aux installations sportives et récréatives',
+---
+>      { subject: 'Gestion du Programme de soutien aux installations sportives et récréatives',
+>        speaker: 'Le Président:',
+272,273c272,273
+<      { speaker: 'Mme Courchesne:',
+<        subject: 'Gestion du Programme de soutien aux installations sportives et récréatives',
+---
+>      { subject: 'Gestion du Programme de soutien aux installations sportives et récréatives',
+>        speaker: 'Mme Courchesne:',
+278,279c278,279
+<      { speaker: 'Le Président:',
+<        subject: 'Gestion du Programme de soutien aux installations sportives et récréatives',
+---
+>      { subject: 'Gestion du Programme de soutien aux installations sportives et récréatives',
+>        speaker: 'Le Président:',
+284,285c284,285
+<      { speaker: 'Mme Courchesne:',
+<        subject: 'Gestion du Programme de soutien aux installations sportives et récréatives',
+---
+>      { subject: 'Gestion du Programme de soutien aux installations sportives et récréatives',
+>        speaker: 'Mme Courchesne:',
+290,291c290,291
+<      { speaker: 'Le Président:',
+<        subject: 'Gestion du Programme de soutien aux installations sportives et récréatives',
+---
+>      { subject: 'Gestion du Programme de soutien aux installations sportives et récréatives',
+>        speaker: 'Le Président:',
+296,297c296,297
+<      { speaker: 'M. St-Arnaud:',
+<        subject: 'Gestion du Programme de soutien aux installations sportives et récréatives',
+---
+>      { subject: 'Gestion du Programme de soutien aux installations sportives et récréatives',
+>        speaker: 'M. St-Arnaud:',
+302,303c302,303
+<      { speaker: 'Le Président:',
+<        subject: 'Gestion du Programme de soutien aux installations sportives et récréatives',
+---
+>      { subject: 'Gestion du Programme de soutien aux installations sportives et récréatives',
+>        speaker: 'Le Président:',
+308,309c308,309
+<      { speaker: 'Mme Courchesne:',
+<        subject: 'Gestion du Programme de soutien aux installations sportives et récréatives',
+---
+>      { subject: 'Gestion du Programme de soutien aux installations sportives et récréatives',
+>        speaker: 'Mme Courchesne:',
+314,315c314,315
+<      { speaker: 'Des voix:',
+<        subject: 'Gestion du Programme de soutien aux installations sportives et récréatives',
+---
+>      { subject: 'Gestion du Programme de soutien aux installations sportives et récréatives',
+>        speaker: 'Des voix:',
+320,321c320,321
+<      { speaker: 'Mme Courchesne:',
+<        subject: 'Gestion du Programme de soutien aux installations sportives et récréatives',
+---
+>      { subject: 'Gestion du Programme de soutien aux installations sportives et récréatives',
+>        speaker: 'Mme Courchesne:',
+326,327c326,327
+<      { speaker: 'Une voix:',
+<        subject: 'Gestion du Programme de soutien aux installations sportives et récréatives',
+---
+>      { subject: 'Gestion du Programme de soutien aux installations sportives et récréatives',
+>        speaker: 'Une voix:',
+332,333c332,333
+<      { speaker: 'Le Président:',
+<        subject: 'Gestion du Programme de soutien aux installations sportives et récréatives',
+---
+>      { subject: 'Gestion du Programme de soutien aux installations sportives et récréatives',
+>        speaker: 'Le Président:',
+338,339c338,339
+<      { speaker: 'Une voix:',
+<        subject: 'Gestion du Programme de soutien aux installations sportives et récréatives',
+---
+>      { subject: 'Gestion du Programme de soutien aux installations sportives et récréatives',
+>        speaker: 'Une voix:',
+344,345c344,345
+<      { speaker: 'Le Président:',
+<        subject: 'Gestion du Programme de soutien aux installations sportives et récréatives',
+---
+>      { subject: 'Gestion du Programme de soutien aux installations sportives et récréatives',
+>        speaker: 'Le Président:',
+350,351c350,351
+<      { speaker: 'Mme Courchesne:',
+<        subject: 'Gestion du Programme de soutien aux installations sportives et récréatives',
+---
+>      { subject: 'Gestion du Programme de soutien aux installations sportives et récréatives',
+>        speaker: 'Mme Courchesne:',
+356,357c356,357
+<      { speaker: 'Le Président:',
+<        subject: 'Gestion du Programme de soutien aux installations sportives et récréatives',
+---
+>      { subject: 'Gestion du Programme de soutien aux installations sportives et récréatives',
+>        speaker: 'Le Président:',
+362,363c362,363
+<      { speaker: 'Mme Courchesne:',
+<        subject: 'Gestion du Programme de soutien aux installations sportives et récréatives',
+---
+>      { subject: 'Gestion du Programme de soutien aux installations sportives et récréatives',
+>        speaker: 'Mme Courchesne:',
+368,369c368,369
+<      { speaker: 'Le Président:',
+<        subject: 'Gestion du Programme de soutien aux installations sportives et récréatives',
+---
+>      { subject: 'Gestion du Programme de soutien aux installations sportives et récréatives',
+>        speaker: 'Le Président:',
+374,375c374,375
+<      { speaker: 'M. St-Arnaud:',
+<        subject: 'Gestion du Programme de soutien aux installations sportives et récréatives',
+---
+>      { subject: 'Gestion du Programme de soutien aux installations sportives et récréatives',
+>        speaker: 'M. St-Arnaud:',
+380,381c380,381
+<      { speaker: 'Le Président:',
+<        subject: 'Gestion du Programme de soutien aux installations sportives et récréatives',
+---
+>      { subject: 'Gestion du Programme de soutien aux installations sportives et récréatives',
+>        speaker: 'Le Président:',
+386,387c386,387
+<      { speaker: 'Mme Courchesne:',
+<        subject: 'Gestion du Programme de soutien aux installations sportives et récréatives',
+---
+>      { subject: 'Gestion du Programme de soutien aux installations sportives et récréatives',
+>        speaker: 'Mme Courchesne:',
+392,393c392,393
+<      { speaker: 'Des voix:',
+<        subject: 'Gestion du Programme de soutien aux installations sportives et récréatives',
+---
+>      { subject: 'Gestion du Programme de soutien aux installations sportives et récréatives',
+>        speaker: 'Des voix:',
+398,399c398,399
+<      { speaker: 'Le Président:',
+<        subject: 'Gestion du Programme de soutien aux installations sportives et récréatives',
+---
+>      { subject: 'Gestion du Programme de soutien aux installations sportives et récréatives',
+>        speaker: 'Le Président:',
+404,405c404,405
+<      { speaker: 'Mme Courchesne:',
+<        subject: 'Gestion du Programme de soutien aux installations sportives et récréatives',
+---
+>      { subject: 'Gestion du Programme de soutien aux installations sportives et récréatives',
+>        speaker: 'Mme Courchesne:',
+410,411c410,411
+<      { speaker: 'Le Président:',
+<        subject: 'Gestion du Programme de soutien aux installations sportives et récréatives',
+---
+>      { subject: 'Gestion du Programme de soutien aux installations sportives et récréatives',
+>        speaker: 'Le Président:',
+416,417c416,417
+<      { speaker: 'Mme Courchesne:',
+<        subject: 'Gestion du Programme de soutien aux installations sportives et récréatives',
+---
+>      { subject: 'Gestion du Programme de soutien aux installations sportives et récréatives',
+>        speaker: 'Mme Courchesne:',
+422,423c422,423
+<      { speaker: 'Le Président:',
+<        subject: 'Gestion du Programme de soutien aux installations sportives et récréatives',
+---
+>      { subject: 'Gestion du Programme de soutien aux installations sportives et récréatives',
+>        speaker: 'Le Président:',
+428,429c428,429
+<      { speaker: 'M. Pagé:',
+<        subject: 'Dépenses effectuées dans le cadre du Programme de soutien aux installations sportives et récréatives',
+---
+>      { subject: 'Dépenses effectuées dans le cadre du Programme de soutien aux installations sportives et récréatives',
+>        speaker: 'M. Pagé:',
+434,435c434,435
+<      { speaker: 'Le Président:',
+<        subject: 'Dépenses effectuées dans le cadre du Programme de soutien aux installations sportives et récréatives',
+---
+>      { subject: 'Dépenses effectuées dans le cadre du Programme de soutien aux installations sportives et récréatives',
+>        speaker: 'Le Président:',
+440,441c440,441
+<      { speaker: 'Mme Courchesne:',
+<        subject: 'Dépenses effectuées dans le cadre du Programme de soutien aux installations sportives et récréatives',
+---
+>      { subject: 'Dépenses effectuées dans le cadre du Programme de soutien aux installations sportives et récréatives',
+>        speaker: 'Mme Courchesne:',
+446,447c446,447
+<      { speaker: 'Le Président:',
+<        subject: 'Dépenses effectuées dans le cadre du Programme de soutien aux installations sportives et récréatives',
+---
+>      { subject: 'Dépenses effectuées dans le cadre du Programme de soutien aux installations sportives et récréatives',
+>        speaker: 'Le Président:',
+452,453c452,453
+<      { speaker: 'M. Pagé:',
+<        subject: 'Dépenses effectuées dans le cadre du Programme de soutien aux installations sportives et récréatives',
+---
+>      { subject: 'Dépenses effectuées dans le cadre du Programme de soutien aux installations sportives et récréatives',
+>        speaker: 'M. Pagé:',
+458,459c458,459
+<      { speaker: 'Le Président:',
+<        subject: 'Dépenses effectuées dans le cadre du Programme de soutien aux installations sportives et récréatives',
+---
+>      { subject: 'Dépenses effectuées dans le cadre du Programme de soutien aux installations sportives et récréatives',
+>        speaker: 'Le Président:',
+464,465c464,465
+<      { speaker: 'Mme Courchesne:',
+<        subject: 'Dépenses effectuées dans le cadre du Programme de soutien aux installations sportives et récréatives',
+---
+>      { subject: 'Dépenses effectuées dans le cadre du Programme de soutien aux installations sportives et récréatives',
+>        speaker: 'Mme Courchesne:',
+470,471c470,471
+<      { speaker: 'Le Président:',
+<        subject: 'Dépenses effectuées dans le cadre du Programme de soutien aux installations sportives et récréatives',
+---
+>      { subject: 'Dépenses effectuées dans le cadre du Programme de soutien aux installations sportives et récréatives',
+>        speaker: 'Le Président:',
+476,477c476,477
+<      { speaker: 'M. Pagé:',
+<        subject: 'Dépenses effectuées dans le cadre du Programme de soutien aux installations sportives et récréatives',
+---
+>      { subject: 'Dépenses effectuées dans le cadre du Programme de soutien aux installations sportives et récréatives',
+>        speaker: 'M. Pagé:',
+482,483c482,483
+<      { speaker: 'Le Président:',
+<        subject: 'Dépenses effectuées dans le cadre du Programme de soutien aux installations sportives et récréatives',
+---
+>      { subject: 'Dépenses effectuées dans le cadre du Programme de soutien aux installations sportives et récréatives',
+>        speaker: 'Le Président:',
+488,489c488,489
+<      { speaker: 'Mme Courchesne:',
+<        subject: 'Dépenses effectuées dans le cadre du Programme de soutien aux installations sportives et récréatives',
+---
+>      { subject: 'Dépenses effectuées dans le cadre du Programme de soutien aux installations sportives et récréatives',
+>        speaker: 'Mme Courchesne:',
+494,495c494,495
+<      { speaker: 'Le Président:',
+<        subject: 'Dépenses effectuées dans le cadre du Programme de soutien aux installations sportives et récréatives',
+---
+>      { subject: 'Dépenses effectuées dans le cadre du Programme de soutien aux installations sportives et récréatives',
+>        speaker: 'Le Président:',
+500,501c500,501
+<      { speaker: 'Mme Courchesne:',
+<        subject: 'Dépenses effectuées dans le cadre du Programme de soutien aux installations sportives et récréatives',
+---
+>      { subject: 'Dépenses effectuées dans le cadre du Programme de soutien aux installations sportives et récréatives',
+>        speaker: 'Mme Courchesne:',
+506,507c506,507
+<      { speaker: 'Le Président:',
+<        subject: 'Dépenses effectuées dans le cadre du Programme de soutien aux installations sportives et récréatives',
+---
+>      { subject: 'Dépenses effectuées dans le cadre du Programme de soutien aux installations sportives et récréatives',
+>        speaker: 'Le Président:',
+512,513c512,513
+<      { speaker: 'M. St-Arnaud:',
+<        subject: 'Fournisseurs de terrains synthétiques dans le cadre du Programme de soutien aux installations sportives et récréatives',
+---
+>      { subject: 'Fournisseurs de terrains synthétiques dans le cadre du Programme de soutien aux installations sportives et récréatives',
+>        speaker: 'M. St-Arnaud:',
+518,519c518,519
+<      { speaker: 'Le Président:',
+<        subject: 'Fournisseurs de terrains synthétiques dans le cadre du Programme de soutien aux installations sportives et récréatives',
+---
+>      { subject: 'Fournisseurs de terrains synthétiques dans le cadre du Programme de soutien aux installations sportives et récréatives',
+>        speaker: 'Le Président:',
+524,525c524,525
+<      { speaker: 'Mme Courchesne:',
+<        subject: 'Fournisseurs de terrains synthétiques dans le cadre du Programme de soutien aux installations sportives et récréatives',
+---
+>      { subject: 'Fournisseurs de terrains synthétiques dans le cadre du Programme de soutien aux installations sportives et récréatives',
+>        speaker: 'Mme Courchesne:',
+530,531c530,531
+<      { speaker: 'Des voix:',
+<        subject: 'Fournisseurs de terrains synthétiques dans le cadre du Programme de soutien aux installations sportives et récréatives',
+---
+>      { subject: 'Fournisseurs de terrains synthétiques dans le cadre du Programme de soutien aux installations sportives et récréatives',
+>        speaker: 'Des voix:',
+536,537c536,537
+<      { speaker: 'Mme Courchesne:',
+<        subject: 'Fournisseurs de terrains synthétiques dans le cadre du Programme de soutien aux installations sportives et récréatives',
+---
+>      { subject: 'Fournisseurs de terrains synthétiques dans le cadre du Programme de soutien aux installations sportives et récréatives',
+>        speaker: 'Mme Courchesne:',
+542,543c542,543
+<      { speaker: 'Le Président:',
+<        subject: 'Fournisseurs de terrains synthétiques dans le cadre du Programme de soutien aux installations sportives et récréatives',
+---
+>      { subject: 'Fournisseurs de terrains synthétiques dans le cadre du Programme de soutien aux installations sportives et récréatives',
+>        speaker: 'Le Président:',
+548,549c548,549
+<      { speaker: 'Une voix:',
+<        subject: 'Fournisseurs de terrains synthétiques dans le cadre du Programme de soutien aux installations sportives et récréatives',
+---
+>      { subject: 'Fournisseurs de terrains synthétiques dans le cadre du Programme de soutien aux installations sportives et récréatives',
+>        speaker: 'Une voix:',
+554,555c554,555
+<      { speaker: 'Mme Courchesne:',
+<        subject: 'Fournisseurs de terrains synthétiques dans le cadre du Programme de soutien aux installations sportives et récréatives',
+---
+>      { subject: 'Fournisseurs de terrains synthétiques dans le cadre du Programme de soutien aux installations sportives et récréatives',
+>        speaker: 'Mme Courchesne:',
+560,561c560,561
+<      { speaker: 'Le Président:',
+<        subject: 'Fournisseurs de terrains synthétiques dans le cadre du Programme de soutien aux installations sportives et récréatives',
+---
+>      { subject: 'Fournisseurs de terrains synthétiques dans le cadre du Programme de soutien aux installations sportives et récréatives',
+>        speaker: 'Le Président:',
+566,567c566,567
+<      { speaker: 'M. St-Arnaud:',
+<        subject: 'Fournisseurs de terrains synthétiques dans le cadre du Programme de soutien aux installations sportives et récréatives',
+---
+>      { subject: 'Fournisseurs de terrains synthétiques dans le cadre du Programme de soutien aux installations sportives et récréatives',
+>        speaker: 'M. St-Arnaud:',
+572,573c572,573
+<      { speaker: 'Le Président:',
+<        subject: 'Fournisseurs de terrains synthétiques dans le cadre du Programme de soutien aux installations sportives et récréatives',
+---
+>      { subject: 'Fournisseurs de terrains synthétiques dans le cadre du Programme de soutien aux installations sportives et récréatives',
+>        speaker: 'Le Président:',
+578,579c578,579
+<      { speaker: 'Des voix:',
+<        subject: 'Fournisseurs de terrains synthétiques dans le cadre du Programme de soutien aux installations sportives et récréatives',
+---
+>      { subject: 'Fournisseurs de terrains synthétiques dans le cadre du Programme de soutien aux installations sportives et récréatives',
+>        speaker: 'Des voix:',
+584,585c584,585
+<      { speaker: 'Le Président:',
+<        subject: 'Fournisseurs de terrains synthétiques dans le cadre du Programme de soutien aux installations sportives et récréatives',
+---
+>      { subject: 'Fournisseurs de terrains synthétiques dans le cadre du Programme de soutien aux installations sportives et récréatives',
+>        speaker: 'Le Président:',
+590,591c590,591
+<      { speaker: 'Mme Courchesne:',
+<        subject: 'Fournisseurs de terrains synthétiques dans le cadre du Programme de soutien aux installations sportives et récréatives',
+---
+>      { subject: 'Fournisseurs de terrains synthétiques dans le cadre du Programme de soutien aux installations sportives et récréatives',
+>        speaker: 'Mme Courchesne:',
+596,597c596,597
+<      { speaker: 'Le Président:',
+<        subject: 'Fournisseurs de terrains synthétiques dans le cadre du Programme de soutien aux installations sportives et récréatives',
+---
+>      { subject: 'Fournisseurs de terrains synthétiques dans le cadre du Programme de soutien aux installations sportives et récréatives',
+>        speaker: 'Le Président:',
+602,603c602,603
+<      { speaker: 'Mme Courchesne:',
+<        subject: 'Fournisseurs de terrains synthétiques dans le cadre du Programme de soutien aux installations sportives et récréatives',
+---
+>      { subject: 'Fournisseurs de terrains synthétiques dans le cadre du Programme de soutien aux installations sportives et récréatives',
+>        speaker: 'Mme Courchesne:',
+608,609c608,609
+<      { speaker: 'Le Président:',
+<        subject: 'Fournisseurs de terrains synthétiques dans le cadre du Programme de soutien aux installations sportives et récréatives',
+---
+>      { subject: 'Fournisseurs de terrains synthétiques dans le cadre du Programme de soutien aux installations sportives et récréatives',
+>        speaker: 'Le Président:',
+614,615c614,615
+<      { speaker: 'M. St-Arnaud:',
+<        subject: 'Fournisseurs de terrains synthétiques dans le cadre du Programme de soutien aux installations sportives et récréatives',
+---
+>      { subject: 'Fournisseurs de terrains synthétiques dans le cadre du Programme de soutien aux installations sportives et récréatives',
+>        speaker: 'M. St-Arnaud:',
+620,621c620,621
+<      { speaker: 'Le Président:',
+<        subject: 'Fournisseurs de terrains synthétiques dans le cadre du Programme de soutien aux installations sportives et récréatives',
+---
+>      { subject: 'Fournisseurs de terrains synthétiques dans le cadre du Programme de soutien aux installations sportives et récréatives',
+>        speaker: 'Le Président:',
+626,627c626,627
+<      { speaker: 'Mme Courchesne:',
+<        subject: 'Fournisseurs de terrains synthétiques dans le cadre du Programme de soutien aux installations sportives et récréatives',
+---
+>      { subject: 'Fournisseurs de terrains synthétiques dans le cadre du Programme de soutien aux installations sportives et récréatives',
+>        speaker: 'Mme Courchesne:',
+632,633c632,633
+<      { speaker: 'Le Président:',
+<        subject: 'Fournisseurs de terrains synthétiques dans le cadre du Programme de soutien aux installations sportives et récréatives',
+---
+>      { subject: 'Fournisseurs de terrains synthétiques dans le cadre du Programme de soutien aux installations sportives et récréatives',
+>        speaker: 'Le Président:',
+638,639c638,639
+<      { speaker: 'Mme Courchesne:',
+<        subject: 'Fournisseurs de terrains synthétiques dans le cadre du Programme de soutien aux installations sportives et récréatives',
+---
+>      { subject: 'Fournisseurs de terrains synthétiques dans le cadre du Programme de soutien aux installations sportives et récréatives',
+>        speaker: 'Mme Courchesne:',
+644,645c644,645
+<      { speaker: 'Le Président:',
+<        subject: 'Fournisseurs de terrains synthétiques dans le cadre du Programme de soutien aux installations sportives et récréatives',
+---
+>      { subject: 'Fournisseurs de terrains synthétiques dans le cadre du Programme de soutien aux installations sportives et récréatives',
+>        speaker: 'Le Président:',
+650,651c650,651
+<      { speaker: 'M. Girard:',
+<        subject: 'Processus d\'attribution de places en service de garde',
+---
+>      { subject: 'Processus d\'attribution de places en service de garde',
+>        speaker: 'M. Girard:',
+656,657c656,657
+<      { speaker: 'Le Président:',
+<        subject: 'Processus d\'attribution de places en service de garde',
+---
+>      { subject: 'Processus d\'attribution de places en service de garde',
+>        speaker: 'Le Président:',
+662,663c662,663
+<      { speaker: 'Mme James:',
+<        subject: 'Processus d\'attribution de places en service de garde',
+---
+>      { subject: 'Processus d\'attribution de places en service de garde',
+>        speaker: 'Mme James:',
+668,669c668,669
+<      { speaker: 'Des voix:',
+<        subject: 'Processus d\'attribution de places en service de garde',
+---
+>      { subject: 'Processus d\'attribution de places en service de garde',
+>        speaker: 'Des voix:',
+674,675c674,675
+<      { speaker: 'Le Président:',
+<        subject: 'Processus d\'attribution de places en service de garde',
+---
+>      { subject: 'Processus d\'attribution de places en service de garde',
+>        speaker: 'Le Président:',
+680,681c680,681
+<      { speaker: 'Mme James:',
+<        subject: 'Processus d\'attribution de places en service de garde',
+---
+>      { subject: 'Processus d\'attribution de places en service de garde',
+>        speaker: 'Mme James:',
+686,687c686,687
+<      { speaker: 'Le Président:',
+<        subject: 'Processus d\'attribution de places en service de garde',
+---
+>      { subject: 'Processus d\'attribution de places en service de garde',
+>        speaker: 'Le Président:',
+692,693c692,693
+<      { speaker: 'Mme James:',
+<        subject: 'Processus d\'attribution de places en service de garde',
+---
+>      { subject: 'Processus d\'attribution de places en service de garde',
+>        speaker: 'Mme James:',
+698,699c698,699
+<      { speaker: 'Le Président:',
+<        subject: 'Processus d\'attribution de places en service de garde',
+---
+>      { subject: 'Processus d\'attribution de places en service de garde',
+>        speaker: 'Le Président:',
+704,705c704,705
+<      { speaker: 'Mme James:',
+<        subject: 'Processus d\'attribution de places en service de garde',
+---
+>      { subject: 'Processus d\'attribution de places en service de garde',
+>        speaker: 'Mme James:',
+710,711c710,711
+<      { speaker: 'Le Président:',
+<        subject: 'Processus d\'attribution de places en service de garde',
+---
+>      { subject: 'Processus d\'attribution de places en service de garde',
+>        speaker: 'Le Président:',
+716,717c716,717
+<      { speaker: 'M. Girard:',
+<        subject: 'Processus d\'attribution de places en service de garde',
+---
+>      { subject: 'Processus d\'attribution de places en service de garde',
+>        speaker: 'M. Girard:',
+722,723c722,723
+<      { speaker: 'Le Président:',
+<        subject: 'Processus d\'attribution de places en service de garde',
+---
+>      { subject: 'Processus d\'attribution de places en service de garde',
+>        speaker: 'Le Président:',
+728,729c728,729
+<      { speaker: 'Mme James:',
+<        subject: 'Processus d\'attribution de places en service de garde',
+---
+>      { subject: 'Processus d\'attribution de places en service de garde',
+>        speaker: 'Mme James:',
+734,735c734,735
+<      { speaker: 'Le Président:',
+<        subject: 'Processus d\'attribution de places en service de garde',
+---
+>      { subject: 'Processus d\'attribution de places en service de garde',
+>        speaker: 'Le Président:',
+740,741c740,741
+<      { speaker: 'Mme James:',
+<        subject: 'Processus d\'attribution de places en service de garde',
+---
+>      { subject: 'Processus d\'attribution de places en service de garde',
+>        speaker: 'Mme James:',
+746,747c746,747
+<      { speaker: 'Le Président:',
+<        subject: 'Processus d\'attribution de places en service de garde',
+---
+>      { subject: 'Processus d\'attribution de places en service de garde',
+>        speaker: 'Le Président:',
+752,753c752,753
+<      { speaker: 'M. Girard:',
+<        subject: 'Processus d\'attribution de places en service de garde',
+---
+>      { subject: 'Processus d\'attribution de places en service de garde',
+>        speaker: 'M. Girard:',
+758,759c758,759
+<      { speaker: 'Le Président:',
+<        subject: 'Processus d\'attribution de places en service de garde',
+---
+>      { subject: 'Processus d\'attribution de places en service de garde',
+>        speaker: 'Le Président:',
+764,765c764,765
+<      { speaker: 'Des voix:',
+<        subject: 'Processus d\'attribution de places en service de garde',
+---
+>      { subject: 'Processus d\'attribution de places en service de garde',
+>        speaker: 'Des voix:',
+770,771c770,771
+<      { speaker: 'Le Président:',
+<        subject: 'Processus d\'attribution de places en service de garde',
+---
+>      { subject: 'Processus d\'attribution de places en service de garde',
+>        speaker: 'Le Président:',
+776,777c776,777
+<      { speaker: 'Mme James:',
+<        subject: 'Processus d\'attribution de places en service de garde',
+---
+>      { subject: 'Processus d\'attribution de places en service de garde',
+>        speaker: 'Mme James:',
+782,783c782,783
+<      { speaker: 'Des voix:',
+<        subject: 'Processus d\'attribution de places en service de garde',
+---
+>      { subject: 'Processus d\'attribution de places en service de garde',
+>        speaker: 'Des voix:',
+788,789c788,789
+<      { speaker: 'Le Président:',
+<        subject: 'Processus d\'attribution de places en service de garde',
+---
+>      { subject: 'Processus d\'attribution de places en service de garde',
+>        speaker: 'Le Président:',
+794,795c794,795
+<      { speaker: 'Des voix:',
+<        subject: 'Processus d\'attribution de places en service de garde',
+---
+>      { subject: 'Processus d\'attribution de places en service de garde',
+>        speaker: 'Des voix:',
+800,801c800,801
+<      { speaker: 'Le Président:',
+<        subject: 'Processus d\'attribution de places en service de garde',
+---
+>      { subject: 'Processus d\'attribution de places en service de garde',
+>        speaker: 'Le Président:',
+806,807c806,807
+<      { speaker: 'Des voix:',
+<        subject: 'Processus d\'attribution de places en service de garde',
+---
+>      { subject: 'Processus d\'attribution de places en service de garde',
+>        speaker: 'Des voix:',
+812,813c812,813
+<      { speaker: 'Le Président:',
+<        subject: 'Processus d\'attribution de places en service de garde',
+---
+>      { subject: 'Processus d\'attribution de places en service de garde',
+>        speaker: 'Le Président:',
+818,819c818,819
+<      { speaker: 'Une voix:',
+<        subject: 'Processus d\'attribution de places en service de garde',
+---
+>      { subject: 'Processus d\'attribution de places en service de garde',
+>        speaker: 'Une voix:',
+824,825c824,825
+<      { speaker: 'Le Président:',
+<        subject: 'Processus d\'attribution de places en service de garde',
+---
+>      { subject: 'Processus d\'attribution de places en service de garde',
+>        speaker: 'Le Président:',
+830,831c830,831
+<      { speaker: 'Une voix:',
+<        subject: 'Processus d\'attribution de places en service de garde',
+---
+>      { subject: 'Processus d\'attribution de places en service de garde',
+>        speaker: 'Une voix:',
+836,837c836,837
+<      { speaker: 'Le Président:',
+<        subject: 'Processus d\'attribution de places en service de garde',
+---
+>      { subject: 'Processus d\'attribution de places en service de garde',
+>        speaker: 'Le Président:',
+842,843c842,843
+<      { speaker: 'Mme James:',
+<        subject: 'Processus d\'attribution de places en service de garde',
+---
+>      { subject: 'Processus d\'attribution de places en service de garde',
+>        speaker: 'Mme James:',
+848,849c848,849
+<      { speaker: 'Le Président:',
+<        subject: 'Processus d\'attribution de places en service de garde',
+---
+>      { subject: 'Processus d\'attribution de places en service de garde',
+>        speaker: 'Le Président:',
+854,855c854,855
+<      { speaker: 'Mme James:',
+<        subject: 'Processus d\'attribution de places en service de garde',
+---
+>      { subject: 'Processus d\'attribution de places en service de garde',
+>        speaker: 'Mme James:',
+860,861c860,861
+<      { speaker: 'Le Président:',
+<        subject: 'Processus d\'attribution de places en service de garde',
+---
+>      { subject: 'Processus d\'attribution de places en service de garde',
+>        speaker: 'Le Président:',
+866,867c866,867
+<      { speaker: 'M. Caire:',
+<        subject: 'Attribution de permis et de subventions à certaines écoles privées',
+---
+>      { subject: 'Attribution de permis et de subventions à certaines écoles privées',
+>        speaker: 'M. Caire:',
+872,873c872,873
+<      { speaker: 'Des voix:',
+<        subject: 'Attribution de permis et de subventions à certaines écoles privées',
+---
+>      { subject: 'Attribution de permis et de subventions à certaines écoles privées',
+>        speaker: 'Des voix:',
+878,879c878,879
+<      { speaker: 'M. Caire:',
+<        subject: 'Attribution de permis et de subventions à certaines écoles privées',
+---
+>      { subject: 'Attribution de permis et de subventions à certaines écoles privées',
+>        speaker: 'M. Caire:',
+884,885c884,885
+<      { speaker: 'Le Président:',
+<        subject: 'Attribution de permis et de subventions à certaines écoles privées',
+---
+>      { subject: 'Attribution de permis et de subventions à certaines écoles privées',
+>        speaker: 'Le Président:',
+890,891c890,891
+<      { speaker: 'Des voix:',
+<        subject: 'Attribution de permis et de subventions à certaines écoles privées',
+---
+>      { subject: 'Attribution de permis et de subventions à certaines écoles privées',
+>        speaker: 'Des voix:',
+896,897c896,897
+<      { speaker: 'Le Président:',
+<        subject: 'Attribution de permis et de subventions à certaines écoles privées',
+---
+>      { subject: 'Attribution de permis et de subventions à certaines écoles privées',
+>        speaker: 'Le Président:',
+902,903c902,903
+<      { speaker: 'M. Caire:',
+<        subject: 'Attribution de permis et de subventions à certaines écoles privées',
+---
+>      { subject: 'Attribution de permis et de subventions à certaines écoles privées',
+>        speaker: 'M. Caire:',
+908,909c908,909
+<      { speaker: 'Le Président:',
+<        subject: 'Attribution de permis et de subventions à certaines écoles privées',
+---
+>      { subject: 'Attribution de permis et de subventions à certaines écoles privées',
+>        speaker: 'Le Président:',
+914,915c914,915
+<      { speaker: 'Mme Courchesne:',
+<        subject: 'Attribution de permis et de subventions à certaines écoles privées',
+---
+>      { subject: 'Attribution de permis et de subventions à certaines écoles privées',
+>        speaker: 'Mme Courchesne:',
+920,921c920,921
+<      { speaker: 'Le Président:',
+<        subject: 'Attribution de permis et de subventions à certaines écoles privées',
+---
+>      { subject: 'Attribution de permis et de subventions à certaines écoles privées',
+>        speaker: 'Le Président:',
+926,927c926,927
+<      { speaker: 'M. Caire:',
+<        subject: 'Attribution de permis et de subventions à certaines écoles privées',
+---
+>      { subject: 'Attribution de permis et de subventions à certaines écoles privées',
+>        speaker: 'M. Caire:',
+932,933c932,933
+<      { speaker: 'Le Président:',
+<        subject: 'Attribution de permis et de subventions à certaines écoles privées',
+---
+>      { subject: 'Attribution de permis et de subventions à certaines écoles privées',
+>        speaker: 'Le Président:',
+938,939c938,939
+<      { speaker: 'Mme Courchesne:',
+<        subject: 'Attribution de permis et de subventions à certaines écoles privées',
+---
+>      { subject: 'Attribution de permis et de subventions à certaines écoles privées',
+>        speaker: 'Mme Courchesne:',
+944,945c944,945
+<      { speaker: 'Des voix:',
+<        subject: 'Attribution de permis et de subventions à certaines écoles privées',
+---
+>      { subject: 'Attribution de permis et de subventions à certaines écoles privées',
+>        speaker: 'Des voix:',
+950,951c950,951
+<      { speaker: 'Mme Courchesne:',
+<        subject: 'Attribution de permis et de subventions à certaines écoles privées',
+---
+>      { subject: 'Attribution de permis et de subventions à certaines écoles privées',
+>        speaker: 'Mme Courchesne:',
+956,957c956,957
+<      { speaker: 'Le Président:',
+<        subject: 'Attribution de permis et de subventions à certaines écoles privées',
+---
+>      { subject: 'Attribution de permis et de subventions à certaines écoles privées',
+>        speaker: 'Le Président:',
+962,963c962,963
+<      { speaker: 'Mme Courchesne:',
+<        subject: 'Attribution de permis et de subventions à certaines écoles privées',
+---
+>      { subject: 'Attribution de permis et de subventions à certaines écoles privées',
+>        speaker: 'Mme Courchesne:',
+968,969c968,969
+<      { speaker: 'Le Président:',
+<        subject: 'Attribution de permis et de subventions à certaines écoles privées',
+---
+>      { subject: 'Attribution de permis et de subventions à certaines écoles privées',
+>        speaker: 'Le Président:',
+974,975c974,975
+<      { speaker: 'M. Caire:',
+<        subject: 'Attribution de permis et de subventions à certaines écoles privées',
+---
+>      { subject: 'Attribution de permis et de subventions à certaines écoles privées',
+>        speaker: 'M. Caire:',
+980,981c980,981
+<      { speaker: 'Le Président:',
+<        subject: 'Attribution de permis et de subventions à certaines écoles privées',
+---
+>      { subject: 'Attribution de permis et de subventions à certaines écoles privées',
+>        speaker: 'Le Président:',
+986,987c986,987
+<      { speaker: 'Mme Courchesne:',
+<        subject: 'Attribution de permis et de subventions à certaines écoles privées',
+---
+>      { subject: 'Attribution de permis et de subventions à certaines écoles privées',
+>        speaker: 'Mme Courchesne:',
+992,993c992,993
+<      { speaker: 'Le Président:',
+<        subject: 'Attribution de permis et de subventions à certaines écoles privées',
+---
+>      { subject: 'Attribution de permis et de subventions à certaines écoles privées',
+>        speaker: 'Le Président:',
+998,999c998,999
+<      { speaker: 'Mme Malavoy:',
+<        subject: 'Utilisation de logiciels libres au sein de l\'État',
+---
+>      { subject: 'Utilisation de logiciels libres au sein de l\'État',
+>        speaker: 'Mme Malavoy:',
+1004,1005c1004,1005
+<      { speaker: 'Le Président:',
+<        subject: 'Utilisation de logiciels libres au sein de l\'État',
+---
+>      { subject: 'Utilisation de logiciels libres au sein de l\'État',
+>        speaker: 'Le Président:',
+1010,1011c1010,1011
+<      { speaker: 'Mme Courchesne:',
+<        subject: 'Utilisation de logiciels libres au sein de l\'État',
+---
+>      { subject: 'Utilisation de logiciels libres au sein de l\'État',
+>        speaker: 'Mme Courchesne:',
+1016,1017c1016,1017
+<      { speaker: 'Le Président:',
+<        subject: 'Utilisation de logiciels libres au sein de l\'État',
+---
+>      { subject: 'Utilisation de logiciels libres au sein de l\'État',
+>        speaker: 'Le Président:',
+1022,1023c1022,1023
+<      { speaker: 'Mme Courchesne:',
+<        subject: 'Utilisation de logiciels libres au sein de l\'État',
+---
+>      { subject: 'Utilisation de logiciels libres au sein de l\'État',
+>        speaker: 'Mme Courchesne:',
+1028,1029c1028,1029
+<      { speaker: 'Le Président:',
+<        subject: 'Utilisation de logiciels libres au sein de l\'État',
+---
+>      { subject: 'Utilisation de logiciels libres au sein de l\'État',
+>        speaker: 'Le Président:',
+1034,1035c1034,1035
+<      { speaker: 'Mme Malavoy:',
+<        subject: 'Utilisation de logiciels libres au sein de l\'État',
+---
+>      { subject: 'Utilisation de logiciels libres au sein de l\'État',
+>        speaker: 'Mme Malavoy:',
+1040,1041c1040,1041
+<      { speaker: 'Le Président:',
+<        subject: 'Utilisation de logiciels libres au sein de l\'État',
+---
+>      { subject: 'Utilisation de logiciels libres au sein de l\'État',
+>        speaker: 'Le Président:',
+1046,1047c1046,1047
+<      { speaker: 'M. Fournier:',
+<        subject: 'Utilisation de logiciels libres au sein de l\'État',
+---
+>      { subject: 'Utilisation de logiciels libres au sein de l\'État',
+>        speaker: 'M. Fournier:',
+1052,1053c1052,1053
+<      { speaker: 'Des voix:',
+<        subject: 'Utilisation de logiciels libres au sein de l\'État',
+---
+>      { subject: 'Utilisation de logiciels libres au sein de l\'État',
+>        speaker: 'Des voix:',
+1058,1059c1058,1059
+<      { speaker: 'Le Président:',
+<        subject: 'Utilisation de logiciels libres au sein de l\'État',
+---
+>      { subject: 'Utilisation de logiciels libres au sein de l\'État',
+>        speaker: 'Le Président:',
+1064,1065c1064,1065
+<      { speaker: 'M. Fournier:',
+<        subject: 'Utilisation de logiciels libres au sein de l\'État',
+---
+>      { subject: 'Utilisation de logiciels libres au sein de l\'État',
+>        speaker: 'M. Fournier:',
+1070,1071c1070,1071
+<      { speaker: 'Le Président:',
+<        subject: 'Utilisation de logiciels libres au sein de l\'État',
+---
+>      { subject: 'Utilisation de logiciels libres au sein de l\'État',
+>        speaker: 'Le Président:',
+1076,1077c1076,1077
+<      { speaker: 'Mme Malavoy:',
+<        subject: 'Utilisation de logiciels libres au sein de l\'État',
+---
+>      { subject: 'Utilisation de logiciels libres au sein de l\'État',
+>        speaker: 'Mme Malavoy:',
+1082,1083c1082,1083
+<      { speaker: 'Le Président:',
+<        subject: 'Utilisation de logiciels libres au sein de l\'État',
+---
+>      { subject: 'Utilisation de logiciels libres au sein de l\'État',
+>        speaker: 'Le Président:',
+1088,1089c1088,1089
+<      { speaker: 'Mme Courchesne:',
+<        subject: 'Utilisation de logiciels libres au sein de l\'État',
+---
+>      { subject: 'Utilisation de logiciels libres au sein de l\'État',
+>        speaker: 'Mme Courchesne:',
+1094,1095c1094,1095
+<      { speaker: 'Des voix:',
+<        subject: 'Utilisation de logiciels libres au sein de l\'État',
+---
+>      { subject: 'Utilisation de logiciels libres au sein de l\'État',
+>        speaker: 'Des voix:',
+1100,1101c1100,1101
+<      { speaker: 'Mme Courchesne:',
+<        subject: 'Utilisation de logiciels libres au sein de l\'État',
+---
+>      { subject: 'Utilisation de logiciels libres au sein de l\'État',
+>        speaker: 'Mme Courchesne:',
+1106,1107c1106,1107
+<      { speaker: 'Des voix:',
+<        subject: 'Utilisation de logiciels libres au sein de l\'État',
+---
+>      { subject: 'Utilisation de logiciels libres au sein de l\'État',
+>        speaker: 'Des voix:',
+1112,1113c1112,1113
+<      { speaker: 'Mme Courchesne:',
+<        subject: 'Utilisation de logiciels libres au sein de l\'État',
+---
+>      { subject: 'Utilisation de logiciels libres au sein de l\'État',
+>        speaker: 'Mme Courchesne:',
+1118,1119c1118,1119
+<      { speaker: 'Le Président:',
+<        subject: 'Utilisation de logiciels libres au sein de l\'État',
+---
+>      { subject: 'Utilisation de logiciels libres au sein de l\'État',
+>        speaker: 'Le Président:',
+1124,1125c1124,1125
+<      { speaker: 'Des voix:',
+<        subject: 'Utilisation de logiciels libres au sein de l\'État',
+---
+>      { subject: 'Utilisation de logiciels libres au sein de l\'État',
+>        speaker: 'Des voix:',
+1130,1131c1130,1131
+<      { speaker: 'Le Président:',
+<        subject: 'Utilisation de logiciels libres au sein de l\'État',
+---
+>      { subject: 'Utilisation de logiciels libres au sein de l\'État',
+>        speaker: 'Le Président:',
+1136,1137c1136,1137
+<      { speaker: 'Des voix:',
+<        subject: 'Utilisation de logiciels libres au sein de l\'État',
+---
+>      { subject: 'Utilisation de logiciels libres au sein de l\'État',
+>        speaker: 'Des voix:',
+1142,1143c1142,1143
+<      { speaker: 'Le Président:',
+<        subject: 'Utilisation de logiciels libres au sein de l\'État',
+---
+>      { subject: 'Utilisation de logiciels libres au sein de l\'État',
+>        speaker: 'Le Président:',
+1148,1149c1148,1149
+<      { speaker: 'Mme Marois:',
+<        subject: 'Impact de la réforme du programme fédéral d\'assurance-emploi',
+---
+>      { subject: 'Impact de la réforme du programme fédéral d\'assurance-emploi',
+>        speaker: 'Mme Marois:',
+1154,1155c1154,1155
+<      { speaker: 'Le Président:',
+<        subject: 'Impact de la réforme du programme fédéral d\'assurance-emploi',
+---
+>      { subject: 'Impact de la réforme du programme fédéral d\'assurance-emploi',
+>        speaker: 'Le Président:',
+1160,1161c1160,1161
+<      { speaker: 'M. Charest:',
+<        subject: 'Impact de la réforme du programme fédéral d\'assurance-emploi',
+---
+>      { subject: 'Impact de la réforme du programme fédéral d\'assurance-emploi',
+>        speaker: 'M. Charest:',
+1166,1167c1166,1167
+<      { speaker: 'Des voix:',
+<        subject: 'Impact de la réforme du programme fédéral d\'assurance-emploi',
+---
+>      { subject: 'Impact de la réforme du programme fédéral d\'assurance-emploi',
+>        speaker: 'Des voix:',
+1172,1173c1172,1173
+<      { speaker: 'M. Charest:',
+<        subject: 'Impact de la réforme du programme fédéral d\'assurance-emploi',
+---
+>      { subject: 'Impact de la réforme du programme fédéral d\'assurance-emploi',
+>        speaker: 'M. Charest:',
+1178,1179c1178,1179
+<      { speaker: 'Des voix:',
+<        subject: 'Impact de la réforme du programme fédéral d\'assurance-emploi',
+---
+>      { subject: 'Impact de la réforme du programme fédéral d\'assurance-emploi',
+>        speaker: 'Des voix:',
+1184,1185c1184,1185
+<      { speaker: 'Le Président:',
+<        subject: 'Impact de la réforme du programme fédéral d\'assurance-emploi',
+---
+>      { subject: 'Impact de la réforme du programme fédéral d\'assurance-emploi',
+>        speaker: 'Le Président:',
+1190,1191c1190,1191
+<      { speaker: 'Des voix:',
+<        subject: 'Impact de la réforme du programme fédéral d\'assurance-emploi',
+---
+>      { subject: 'Impact de la réforme du programme fédéral d\'assurance-emploi',
+>        speaker: 'Des voix:',
+1196,1197c1196,1197
+<      { speaker: 'Le Président:',
+<        subject: 'Impact de la réforme du programme fédéral d\'assurance-emploi',
+---
+>      { subject: 'Impact de la réforme du programme fédéral d\'assurance-emploi',
+>        speaker: 'Le Président:',
+1202,1203c1202,1203
+<      { speaker: 'Une voix:',
+<        subject: 'Impact de la réforme du programme fédéral d\'assurance-emploi',
+---
+>      { subject: 'Impact de la réforme du programme fédéral d\'assurance-emploi',
+>        speaker: 'Une voix:',
+1208,1209c1208,1209
+<      { speaker: 'Mme Marois:',
+<        subject: 'Impact de la réforme du programme fédéral d\'assurance-emploi',
+---
+>      { subject: 'Impact de la réforme du programme fédéral d\'assurance-emploi',
+>        speaker: 'Mme Marois:',
+1214,1215c1214,1215
+<      { speaker: 'Le Président:',
+<        subject: 'Impact de la réforme du programme fédéral d\'assurance-emploi',
+---
+>      { subject: 'Impact de la réforme du programme fédéral d\'assurance-emploi',
+>        speaker: 'Le Président:',
+1220,1221c1220,1221
+<      { speaker: 'Mme Marois:',
+<        subject: 'Impact de la réforme du programme fédéral d\'assurance-emploi',
+---
+>      { subject: 'Impact de la réforme du programme fédéral d\'assurance-emploi',
+>        speaker: 'Mme Marois:',
+1226,1227c1226,1227
+<      { speaker: 'Le Président:',
+<        subject: 'Impact de la réforme du programme fédéral d\'assurance-emploi',
+---
+>      { subject: 'Impact de la réforme du programme fédéral d\'assurance-emploi',
+>        speaker: 'Le Président:',
+1232,1233c1232,1233
+<      { speaker: 'M. Charest:',
+<        subject: 'Impact de la réforme du programme fédéral d\'assurance-emploi',
+---
+>      { subject: 'Impact de la réforme du programme fédéral d\'assurance-emploi',
+>        speaker: 'M. Charest:',
+1238,1239c1238,1239
+<      { speaker: 'Des voix:',
+<        subject: 'Impact de la réforme du programme fédéral d\'assurance-emploi',
+---
+>      { subject: 'Impact de la réforme du programme fédéral d\'assurance-emploi',
+>        speaker: 'Des voix:',
+1244,1245c1244,1245
+<      { speaker: 'Le Président:',
+<        subject: 'Impact de la réforme du programme fédéral d\'assurance-emploi',
+---
+>      { subject: 'Impact de la réforme du programme fédéral d\'assurance-emploi',
+>        speaker: 'Le Président:',
+1250,1251c1250,1251
+<      { speaker: 'M. Charest:',
+<        subject: 'Impact de la réforme du programme fédéral d\'assurance-emploi',
+---
+>      { subject: 'Impact de la réforme du programme fédéral d\'assurance-emploi',
+>        speaker: 'M. Charest:',
+1256,1257c1256,1257
+<      { speaker: 'Le Président:',
+<        subject: 'Impact de la réforme du programme fédéral d\'assurance-emploi',
+---
+>      { subject: 'Impact de la réforme du programme fédéral d\'assurance-emploi',
+>        speaker: 'Le Président:',
+1262,1263c1262,1263
+<      { speaker: 'Mme Marois:',
+<        subject: 'Impact de la réforme du programme fédéral d\'assurance-emploi',
+---
+>      { subject: 'Impact de la réforme du programme fédéral d\'assurance-emploi',
+>        speaker: 'Mme Marois:',
+1268,1269c1268,1269
+<      { speaker: 'Des voix:',
+<        subject: 'Impact de la réforme du programme fédéral d\'assurance-emploi',
+---
+>      { subject: 'Impact de la réforme du programme fédéral d\'assurance-emploi',
+>        speaker: 'Des voix:',
+1274,1275c1274,1275
+<      { speaker: 'Le Président:',
+<        subject: 'Impact de la réforme du programme fédéral d\'assurance-emploi',
+---
+>      { subject: 'Impact de la réforme du programme fédéral d\'assurance-emploi',
+>        speaker: 'Le Président:',
+1280,1281c1280,1281
+<      { speaker: 'Mme Marois:',
+<        subject: 'Impact de la réforme du programme fédéral d\'assurance-emploi',
+---
+>      { subject: 'Impact de la réforme du programme fédéral d\'assurance-emploi',
+>        speaker: 'Mme Marois:',
+1286,1287c1286,1287
+<      { speaker: 'Le Président:',
+<        subject: 'Impact de la réforme du programme fédéral d\'assurance-emploi',
+---
+>      { subject: 'Impact de la réforme du programme fédéral d\'assurance-emploi',
+>        speaker: 'Le Président:',
+1292,1293c1292,1293
+<      { speaker: 'M. Charest:',
+<        subject: 'Impact de la réforme du programme fédéral d\'assurance-emploi',
+---
+>      { subject: 'Impact de la réforme du programme fédéral d\'assurance-emploi',
+>        speaker: 'M. Charest:',
+1298,1299c1298,1299
+<      { speaker: 'Le Président:',
+<        subject: 'Impact de la réforme du programme fédéral d\'assurance-emploi',
+---
+>      { subject: 'Impact de la réforme du programme fédéral d\'assurance-emploi',
+>        speaker: 'Le Président:',
+1304,1305c1304,1305
+<      { speaker: 'Mme Marois:',
+<        subject: 'Impact de la réforme du programme fédéral d\'assurance-emploi',
+---
+>      { subject: 'Impact de la réforme du programme fédéral d\'assurance-emploi',
+>        speaker: 'Mme Marois:',
+1310,1311c1310,1311
+<      { speaker: 'Le Président:',
+<        subject: 'Impact de la réforme du programme fédéral d\'assurance-emploi',
+---
+>      { subject: 'Impact de la réforme du programme fédéral d\'assurance-emploi',
+>        speaker: 'Le Président:',
+1316,1317c1316,1317
+<      { speaker: 'M. Charest:',
+<        subject: 'Impact de la réforme du programme fédéral d\'assurance-emploi',
+---
+>      { subject: 'Impact de la réforme du programme fédéral d\'assurance-emploi',
+>        speaker: 'M. Charest:',
+1322,1323c1322,1323
+<      { speaker: 'Des voix:',
+<        subject: 'Impact de la réforme du programme fédéral d\'assurance-emploi',
+---
+>      { subject: 'Impact de la réforme du programme fédéral d\'assurance-emploi',
+>        speaker: 'Des voix:',
+1328,1329c1328,1329
+<      { speaker: 'M. Charest:',
+<        subject: 'Impact de la réforme du programme fédéral d\'assurance-emploi',
+---
+>      { subject: 'Impact de la réforme du programme fédéral d\'assurance-emploi',
+>        speaker: 'M. Charest:',
+1334,1335c1334,1335
+<      { speaker: 'Le Président:',
+<        subject: 'Impact de la réforme du programme fédéral d\'assurance-emploi',
+---
+>      { subject: 'Impact de la réforme du programme fédéral d\'assurance-emploi',
+>        speaker: 'Le Président:',
+1340,1341c1340,1341
+<      { speaker: 'M. Charest:',
+<        subject: 'Impact de la réforme du programme fédéral d\'assurance-emploi',
+---
+>      { subject: 'Impact de la réforme du programme fédéral d\'assurance-emploi',
+>        speaker: 'M. Charest:',
+1346,1347c1346,1347
+<      { speaker: 'Le Président:',
+<        subject: 'Impact de la réforme du programme fédéral d\'assurance-emploi',
+---
+>      { subject: 'Impact de la réforme du programme fédéral d\'assurance-emploi',
+>        speaker: 'Le Président:',
+1352,1353c1352,1353
+<      { speaker: 'M. Drainville:',
+<        subject: 'Participation du Québec au financement d\'événements reliés à la monarchie britannique',
+---
+>      { subject: 'Participation du Québec au financement d\'événements reliés à la monarchie britannique',
+>        speaker: 'M. Drainville:',
+1358,1359c1358,1359
+<      { speaker: 'Le Président:',
+<        subject: 'Participation du Québec au financement d\'événements reliés à la monarchie britannique',
+---
+>      { subject: 'Participation du Québec au financement d\'événements reliés à la monarchie britannique',
+>        speaker: 'Le Président:',
+1364,1365c1364,1365
+<      { speaker: 'M. Vallières:',
+<        subject: 'Participation du Québec au financement d\'événements reliés à la monarchie britannique',
+---
+>      { subject: 'Participation du Québec au financement d\'événements reliés à la monarchie britannique',
+>        speaker: 'M. Vallières:',
+1370,1371c1370,1371
+<      { speaker: 'Le Président:',
+<        subject: 'Participation du Québec au financement d\'événements reliés à la monarchie britannique',
+---
+>      { subject: 'Participation du Québec au financement d\'événements reliés à la monarchie britannique',
+>        speaker: 'Le Président:',
+1376,1377c1376,1377
+<      { speaker: 'M. Drainville:',
+<        subject: 'Participation du Québec au financement d\'événements reliés à la monarchie britannique',
+---
+>      { subject: 'Participation du Québec au financement d\'événements reliés à la monarchie britannique',
+>        speaker: 'M. Drainville:',
+1382,1383c1382,1383
+<      { speaker: 'Des voix:',
+<        subject: 'Participation du Québec au financement d\'événements reliés à la monarchie britannique',
+---
+>      { subject: 'Participation du Québec au financement d\'événements reliés à la monarchie britannique',
+>        speaker: 'Des voix:',
+1388,1389c1388,1389
+<      { speaker: 'M. Drainville:',
+<        subject: 'Participation du Québec au financement d\'événements reliés à la monarchie britannique',
+---
+>      { subject: 'Participation du Québec au financement d\'événements reliés à la monarchie britannique',
+>        speaker: 'M. Drainville:',
+1394,1395c1394,1395
+<      { speaker: 'Le Président:',
+<        subject: 'Participation du Québec au financement d\'événements reliés à la monarchie britannique',
+---
+>      { subject: 'Participation du Québec au financement d\'événements reliés à la monarchie britannique',
+>        speaker: 'Le Président:',
+1400,1401c1400,1401
+<      { speaker: 'M. Vallières:',
+<        subject: 'Participation du Québec au financement d\'événements reliés à la monarchie britannique',
+---
+>      { subject: 'Participation du Québec au financement d\'événements reliés à la monarchie britannique',
+>        speaker: 'M. Vallières:',
+1406,1407c1406,1407
+<      { speaker: 'Le Président:',
+<        subject: 'Participation du Québec au financement d\'événements reliés à la monarchie britannique',
+---
+>      { subject: 'Participation du Québec au financement d\'événements reliés à la monarchie britannique',
+>        speaker: 'Le Président:',
+1412,1413c1412,1413
+<      { speaker: 'Des voix:',
+<        subject: 'Participation du Québec au financement d\'événements reliés à la monarchie britannique',
+---
+>      { subject: 'Participation du Québec au financement d\'événements reliés à la monarchie britannique',
+>        speaker: 'Des voix:',
+1418,1419c1418,1419
+<      { speaker: 'Le Vice-Président (M. Gendron):',
+<        subject: 'Participation du Québec au financement d\'événements reliés à la monarchie britannique',
+---
+>      { subject: 'Participation du Québec au financement d\'événements reliés à la monarchie britannique',
+>        speaker: 'Le Vice-Président (M. Gendron):',
+1424,1425c1424,1425
+<      { speaker: 'Le Vice-Président (M. Gendron):',
+<        subject: 'Motions sans préavis',
+---
+>      { subject: 'Motions sans préavis',
+>        speaker: 'Le Vice-Président (M. Gendron):',
+1430,1431c1430,1431
+<      { speaker: 'M. Charest:',
+<        subject: 'Motions sans préavis',
+---
+>      { subject: 'Motions sans préavis',
+>        speaker: 'M. Charest:',
+1436,1437c1436,1437
+<      { speaker: 'M. Charest:',
+<        subject: 'Nommer Me Diane Poitras vice-présidente de la Commission d\'accès à l\'information',
+---
+>      { subject: 'Nommer Me Diane Poitras vice-présidente de la Commission d\'accès à l\'information',
+>        speaker: 'M. Charest:',
+1442,1443c1442,1443
+<      { speaker: 'Le Vice-Président (M. Gendron):',
+<        subject: 'Nommer Me Diane Poitras vice-présidente de la Commission d\'accès à l\'information',
+---
+>      { subject: 'Nommer Me Diane Poitras vice-présidente de la Commission d\'accès à l\'information',
+>        speaker: 'Le Vice-Président (M. Gendron):',
+1448,1449c1448,1449
+<      { speaker: 'Le Vice-Président (M. Gendron):',
+<        subject: 'Nommer Me Diane Poitras vice-présidente de la Commission d\'accès à l\'information',
+---
+>      { subject: 'Nommer Me Diane Poitras vice-présidente de la Commission d\'accès à l\'information',
+>        speaker: 'Le Vice-Président (M. Gendron):',
+1454,1455c1454,1455
+<      { speaker: 'Le Secrétaire adjoint:',
+<        subject: 'Nommer Me Diane Poitras vice-présidente de la Commission d\'accès à l\'information',
+---
+>      { subject: 'Nommer Me Diane Poitras vice-présidente de la Commission d\'accès à l\'information',
+>        speaker: 'Le Secrétaire adjoint:',
+1460,1461c1460,1461
+<      { speaker: 'Le Vice-Président (M. Gendron):',
+<        subject: 'Nommer Me Diane Poitras vice-présidente de la Commission d\'accès à l\'information',
+---
+>      { subject: 'Nommer Me Diane Poitras vice-présidente de la Commission d\'accès à l\'information',
+>        speaker: 'Le Vice-Président (M. Gendron):',
+1466,1467c1466,1467
+<      { speaker: 'Le Secrétaire:',
+<        subject: 'Nommer Me Diane Poitras vice-présidente de la Commission d\'accès à l\'information',
+---
+>      { subject: 'Nommer Me Diane Poitras vice-présidente de la Commission d\'accès à l\'information',
+>        speaker: 'Le Secrétaire:',
+1472,1473c1472,1473
+<      { speaker: 'Le Vice-Président (M. Gendron):',
+<        subject: 'Nommer Me Diane Poitras vice-présidente de la Commission d\'accès à l\'information',
+---
+>      { subject: 'Nommer Me Diane Poitras vice-présidente de la Commission d\'accès à l\'information',
+>        speaker: 'Le Vice-Président (M. Gendron):',
+1478,1479c1478,1479
+<      { speaker: 'M. Charest:',
+<        subject: 'Nommer de nouveau Me Christiane Constant membre de la Commission d\'accès à l\'information',
+---
+>      { subject: 'Nommer de nouveau Me Christiane Constant membre de la Commission d\'accès à l\'information',
+>        speaker: 'M. Charest:',
+1484,1485c1484,1485
+<      { speaker: 'Le Vice-Président (M. Gendron):',
+<        subject: 'Nommer de nouveau Me Christiane Constant membre de la Commission d\'accès à l\'information',
+---
+>      { subject: 'Nommer de nouveau Me Christiane Constant membre de la Commission d\'accès à l\'information',
+>        speaker: 'Le Vice-Président (M. Gendron):',
+1490,1491c1490,1491
+<      { speaker: 'M. Fournier:',
+<        subject: 'Nommer de nouveau Me Christiane Constant membre de la Commission d\'accès à l\'information',
+---
+>      { subject: 'Nommer de nouveau Me Christiane Constant membre de la Commission d\'accès à l\'information',
+>        speaker: 'M. Fournier:',
+1496,1497c1496,1497
+<      { speaker: 'Le Vice-Président (M. Gendron):',
+<        subject: 'Nommer de nouveau Me Christiane Constant membre de la Commission d\'accès à l\'information',
+---
+>      { subject: 'Nommer de nouveau Me Christiane Constant membre de la Commission d\'accès à l\'information',
+>        speaker: 'Le Vice-Président (M. Gendron):',
+1502,1503c1502,1503
+<      { speaker: 'M. Charest:',
+<        subject: 'Nommer de nouveau Me Hélène Grenier membre de la Commission d\'accès à l\'information',
+---
+>      { subject: 'Nommer de nouveau Me Hélène Grenier membre de la Commission d\'accès à l\'information',
+>        speaker: 'M. Charest:',
+1508,1509c1508,1509
+<      { speaker: 'Le Vice-Président (M. Gendron):',
+<        subject: 'Nommer de nouveau Me Hélène Grenier membre de la Commission d\'accès à l\'information',
+---
+>      { subject: 'Nommer de nouveau Me Hélène Grenier membre de la Commission d\'accès à l\'information',
+>        speaker: 'Le Vice-Président (M. Gendron):',
+1514,1515c1514,1515
+<      { speaker: 'M. Cloutier:',
+<        subject: 'Souligner l\'excellence des relations politiques, économiques et culturelles entre le Maroc et le Québec ainsi que l\'ouverture de la maison du Maroc Dar Al-Maghrid à Montréal',
+---
+>      { subject: 'Souligner l\'excellence des relations politiques, économiques et culturelles entre le Maroc et le Québec ainsi que l\'ouverture de la maison du Maroc Dar Al-Maghrid à Montréal',
+>        speaker: 'M. Cloutier:',
+1520,1521c1520,1521
+<      { speaker: 'Le Vice-Président (M. Gendron):',
+<        subject: 'Souligner l\'excellence des relations politiques, économiques et culturelles entre le Maroc et le Québec ainsi que l\'ouverture de la maison du Maroc Dar Al-Maghrid à Montréal',
+---
+>      { subject: 'Souligner l\'excellence des relations politiques, économiques et culturelles entre le Maroc et le Québec ainsi que l\'ouverture de la maison du Maroc Dar Al-Maghrid à Montréal',
+>        speaker: 'Le Vice-Président (M. Gendron):',
+1526,1527c1526,1527
+<      { speaker: 'M. Gautrin:',
+<        subject: 'Souligner l\'excellence des relations politiques, économiques et culturelles entre le Maroc et le Québec ainsi que l\'ouverture de la maison du Maroc Dar Al-Maghrid à Montréal',
+---
+>      { subject: 'Souligner l\'excellence des relations politiques, économiques et culturelles entre le Maroc et le Québec ainsi que l\'ouverture de la maison du Maroc Dar Al-Maghrid à Montréal',
+>        speaker: 'M. Gautrin:',
+1532,1533c1532,1533
+<      { speaker: 'Une voix:',
+<        subject: 'Souligner l\'excellence des relations politiques, économiques et culturelles entre le Maroc et le Québec ainsi que l\'ouverture de la maison du Maroc Dar Al-Maghrid à Montréal',
+---
+>      { subject: 'Souligner l\'excellence des relations politiques, économiques et culturelles entre le Maroc et le Québec ainsi que l\'ouverture de la maison du Maroc Dar Al-Maghrid à Montréal',
+>        speaker: 'Une voix:',
+1538,1539c1538,1539
+<      { speaker: 'M. Gautrin:',
+<        subject: 'Souligner l\'excellence des relations politiques, économiques et culturelles entre le Maroc et le Québec ainsi que l\'ouverture de la maison du Maroc Dar Al-Maghrid à Montréal',
+---
+>      { subject: 'Souligner l\'excellence des relations politiques, économiques et culturelles entre le Maroc et le Québec ainsi que l\'ouverture de la maison du Maroc Dar Al-Maghrid à Montréal',
+>        speaker: 'M. Gautrin:',
+1544,1545c1544,1545
+<      { speaker: 'Des voix:',
+<        subject: 'Souligner l\'excellence des relations politiques, économiques et culturelles entre le Maroc et le Québec ainsi que l\'ouverture de la maison du Maroc Dar Al-Maghrid à Montréal',
+---
+>      { subject: 'Souligner l\'excellence des relations politiques, économiques et culturelles entre le Maroc et le Québec ainsi que l\'ouverture de la maison du Maroc Dar Al-Maghrid à Montréal',
+>        speaker: 'Des voix:',
+1550,1551c1550,1551
+<      { speaker: 'Le Vice-Président (M. Gendron):',
+<        subject: 'Souligner l\'excellence des relations politiques, économiques et culturelles entre le Maroc et le Québec ainsi que l\'ouverture de la maison du Maroc Dar Al-Maghrid à Montréal',
+---
+>      { subject: 'Souligner l\'excellence des relations politiques, économiques et culturelles entre le Maroc et le Québec ainsi que l\'ouverture de la maison du Maroc Dar Al-Maghrid à Montréal',
+>        speaker: 'Le Vice-Président (M. Gendron):',
+1556,1557c1556,1557
+<      { speaker: 'M. Gautrin:',
+<        subject: 'Souligner l\'excellence des relations politiques, économiques et culturelles entre le Maroc et le Québec ainsi que l\'ouverture de la maison du Maroc Dar Al-Maghrid à Montréal',
+---
+>      { subject: 'Souligner l\'excellence des relations politiques, économiques et culturelles entre le Maroc et le Québec ainsi que l\'ouverture de la maison du Maroc Dar Al-Maghrid à Montréal',
+>        speaker: 'M. Gautrin:',
+1562,1563c1562,1563
+<      { speaker: 'Le Vice-Président (M. Gendron):',
+<        subject: 'Souligner l\'excellence des relations politiques, économiques et culturelles entre le Maroc et le Québec ainsi que l\'ouverture de la maison du Maroc Dar Al-Maghrid à Montréal',
+---
+>      { subject: 'Souligner l\'excellence des relations politiques, économiques et culturelles entre le Maroc et le Québec ainsi que l\'ouverture de la maison du Maroc Dar Al-Maghrid à Montréal',
+>        speaker: 'Le Vice-Président (M. Gendron):',
+1568,1569c1568,1569
+<      { speaker: 'Une voix:',
+<        subject: 'Souligner l\'excellence des relations politiques, économiques et culturelles entre le Maroc et le Québec ainsi que l\'ouverture de la maison du Maroc Dar Al-Maghrid à Montréal',
+---
+>      { subject: 'Souligner l\'excellence des relations politiques, économiques et culturelles entre le Maroc et le Québec ainsi que l\'ouverture de la maison du Maroc Dar Al-Maghrid à Montréal',
+>        speaker: 'Une voix:',
+1574,1575c1574,1575
+<      { speaker: 'Le Vice-Président (M. Gendron):',
+<        subject: 'Souligner l\'excellence des relations politiques, économiques et culturelles entre le Maroc et le Québec ainsi que l\'ouverture de la maison du Maroc Dar Al-Maghrid à Montréal',
+---
+>      { subject: 'Souligner l\'excellence des relations politiques, économiques et culturelles entre le Maroc et le Québec ainsi que l\'ouverture de la maison du Maroc Dar Al-Maghrid à Montréal',
+>        speaker: 'Le Vice-Président (M. Gendron):',
+1580,1581c1580,1581
+<      { speaker: 'Des voix:',
+<        subject: 'Souligner l\'excellence des relations politiques, économiques et culturelles entre le Maroc et le Québec ainsi que l\'ouverture de la maison du Maroc Dar Al-Maghrid à Montréal',
+---
+>      { subject: 'Souligner l\'excellence des relations politiques, économiques et culturelles entre le Maroc et le Québec ainsi que l\'ouverture de la maison du Maroc Dar Al-Maghrid à Montréal',
+>        speaker: 'Des voix:',
+1586,1587c1586,1587
+<      { speaker: 'Le Vice-Président (M. Gendron):',
+<        subject: 'Souligner l\'excellence des relations politiques, économiques et culturelles entre le Maroc et le Québec ainsi que l\'ouverture de la maison du Maroc Dar Al-Maghrid à Montréal',
+---
+>      { subject: 'Souligner l\'excellence des relations politiques, économiques et culturelles entre le Maroc et le Québec ainsi que l\'ouverture de la maison du Maroc Dar Al-Maghrid à Montréal',
+>        speaker: 'Le Vice-Président (M. Gendron):',
+1592,1593c1592,1593
+<      { speaker: 'M. Cloutier:',
+<        subject: 'Souligner l\'excellence des relations politiques, économiques et culturelles entre le Maroc et le Québec ainsi que l\'ouverture de la maison du Maroc Dar Al-Maghrid à Montréal',
+---
+>      { subject: 'Souligner l\'excellence des relations politiques, économiques et culturelles entre le Maroc et le Québec ainsi que l\'ouverture de la maison du Maroc Dar Al-Maghrid à Montréal',
+>        speaker: 'M. Cloutier:',
+1598,1599c1598,1599
+<      { speaker: 'Le Vice-Président (M. Gendron):',
+<        subject: 'Souligner l\'excellence des relations politiques, économiques et culturelles entre le Maroc et le Québec ainsi que l\'ouverture de la maison du Maroc Dar Al-Maghrid à Montréal',
+---
+>      { subject: 'Souligner l\'excellence des relations politiques, économiques et culturelles entre le Maroc et le Québec ainsi que l\'ouverture de la maison du Maroc Dar Al-Maghrid à Montréal',
+>        speaker: 'Le Vice-Président (M. Gendron):',
+1604,1605c1604,1605
+<      { speaker: 'Mme Houda-Pepin:',
+<        subject: 'Souligner l\'excellence des relations politiques, économiques et culturelles entre le Maroc et le Québec ainsi que l\'ouverture de la maison du Maroc Dar Al-Maghrid à Montréal',
+---
+>      { subject: 'Souligner l\'excellence des relations politiques, économiques et culturelles entre le Maroc et le Québec ainsi que l\'ouverture de la maison du Maroc Dar Al-Maghrid à Montréal',
+>        speaker: 'Mme Houda-Pepin:',
+1610,1611c1610,1611
+<      { speaker: 'Une voix:',
+<        subject: 'Souligner l\'excellence des relations politiques, économiques et culturelles entre le Maroc et le Québec ainsi que l\'ouverture de la maison du Maroc Dar Al-Maghrid à Montréal',
+---
+>      { subject: 'Souligner l\'excellence des relations politiques, économiques et culturelles entre le Maroc et le Québec ainsi que l\'ouverture de la maison du Maroc Dar Al-Maghrid à Montréal',
+>        speaker: 'Une voix:',
+1616,1617c1616,1617
+<      { speaker: 'Le Vice-Président (M. Gendron):',
+<        subject: 'Souligner l\'excellence des relations politiques, économiques et culturelles entre le Maroc et le Québec ainsi que l\'ouverture de la maison du Maroc Dar Al-Maghrid à Montréal',
+---
+>      { subject: 'Souligner l\'excellence des relations politiques, économiques et culturelles entre le Maroc et le Québec ainsi que l\'ouverture de la maison du Maroc Dar Al-Maghrid à Montréal',
+>        speaker: 'Le Vice-Président (M. Gendron):',
+1622,1623c1622,1623
+<      { speaker: 'M. Gautrin:',
+<        subject: 'Souligner l\'excellence des relations politiques, économiques et culturelles entre le Maroc et le Québec ainsi que l\'ouverture de la maison du Maroc Dar Al-Maghrid à Montréal',
+---
+>      { subject: 'Souligner l\'excellence des relations politiques, économiques et culturelles entre le Maroc et le Québec ainsi que l\'ouverture de la maison du Maroc Dar Al-Maghrid à Montréal',
+>        speaker: 'M. Gautrin:',
+1628,1629c1628,1629
+<      { speaker: 'Le Vice-Président (M. Gendron):',
+<        subject: 'Souligner l\'excellence des relations politiques, économiques et culturelles entre le Maroc et le Québec ainsi que l\'ouverture de la maison du Maroc Dar Al-Maghrid à Montréal',
+---
+>      { subject: 'Souligner l\'excellence des relations politiques, économiques et culturelles entre le Maroc et le Québec ainsi que l\'ouverture de la maison du Maroc Dar Al-Maghrid à Montréal',
+>        speaker: 'Le Vice-Président (M. Gendron):',
+1634,1635c1634,1635
+<      { speaker: 'M. Charette:',
+<        subject: 'Souligner l\'excellence des relations politiques, économiques et culturelles entre le Maroc et le Québec ainsi que l\'ouverture de la maison du Maroc Dar Al-Maghrid à Montréal',
+---
+>      { subject: 'Souligner l\'excellence des relations politiques, économiques et culturelles entre le Maroc et le Québec ainsi que l\'ouverture de la maison du Maroc Dar Al-Maghrid à Montréal',
+>        speaker: 'M. Charette:',
+1640,1641c1640,1641
+<      { speaker: 'Le Vice-Président (M. Gendron):',
+<        subject: 'Souligner l\'excellence des relations politiques, économiques et culturelles entre le Maroc et le Québec ainsi que l\'ouverture de la maison du Maroc Dar Al-Maghrid à Montréal',
+---
+>      { subject: 'Souligner l\'excellence des relations politiques, économiques et culturelles entre le Maroc et le Québec ainsi que l\'ouverture de la maison du Maroc Dar Al-Maghrid à Montréal',
+>        speaker: 'Le Vice-Président (M. Gendron):',
+1646,1647c1646,1647
+<      { speaker: 'Mme Houda-Pepin:',
+<        subject: 'Souligner l\'excellence des relations politiques, économiques et culturelles entre le Maroc et le Québec ainsi que l\'ouverture de la maison du Maroc Dar Al-Maghrid à Montréal',
+---
+>      { subject: 'Souligner l\'excellence des relations politiques, économiques et culturelles entre le Maroc et le Québec ainsi que l\'ouverture de la maison du Maroc Dar Al-Maghrid à Montréal',
+>        speaker: 'Mme Houda-Pepin:',
+1652,1653c1652,1653
+<      { speaker: 'Des voix:',
+<        subject: 'Souligner l\'excellence des relations politiques, économiques et culturelles entre le Maroc et le Québec ainsi que l\'ouverture de la maison du Maroc Dar Al-Maghrid à Montréal',
+---
+>      { subject: 'Souligner l\'excellence des relations politiques, économiques et culturelles entre le Maroc et le Québec ainsi que l\'ouverture de la maison du Maroc Dar Al-Maghrid à Montréal',
+>        speaker: 'Des voix:',
+1658,1659c1658,1659
+<      { speaker: 'Mme Houda-Pepin:',
+<        subject: 'Souligner l\'excellence des relations politiques, économiques et culturelles entre le Maroc et le Québec ainsi que l\'ouverture de la maison du Maroc Dar Al-Maghrid à Montréal',
+---
+>      { subject: 'Souligner l\'excellence des relations politiques, économiques et culturelles entre le Maroc et le Québec ainsi que l\'ouverture de la maison du Maroc Dar Al-Maghrid à Montréal',
+>        speaker: 'Mme Houda-Pepin:',
+1664,1665c1664,1665
+<      { speaker: 'Le Vice-Président (M. Gendron):',
+<        subject: 'Souligner l\'excellence des relations politiques, économiques et culturelles entre le Maroc et le Québec ainsi que l\'ouverture de la maison du Maroc Dar Al-Maghrid à Montréal',
+---
+>      { subject: 'Souligner l\'excellence des relations politiques, économiques et culturelles entre le Maroc et le Québec ainsi que l\'ouverture de la maison du Maroc Dar Al-Maghrid à Montréal',
+>        speaker: 'Le Vice-Président (M. Gendron):',
+1670,1671c1670,1671
+<      { speaker: 'Des voix:',
+<        subject: 'Souligner l\'excellence des relations politiques, économiques et culturelles entre le Maroc et le Québec ainsi que l\'ouverture de la maison du Maroc Dar Al-Maghrid à Montréal',
+---
+>      { subject: 'Souligner l\'excellence des relations politiques, économiques et culturelles entre le Maroc et le Québec ainsi que l\'ouverture de la maison du Maroc Dar Al-Maghrid à Montréal',
+>        speaker: 'Des voix:',
+1676,1677c1676,1677
+<      { speaker: 'Le Vice-Président (M. Gendron):',
+<        subject: 'Souligner l\'excellence des relations politiques, économiques et culturelles entre le Maroc et le Québec ainsi que l\'ouverture de la maison du Maroc Dar Al-Maghrid à Montréal',
+---
+>      { subject: 'Souligner l\'excellence des relations politiques, économiques et culturelles entre le Maroc et le Québec ainsi que l\'ouverture de la maison du Maroc Dar Al-Maghrid à Montréal',
+>        speaker: 'Le Vice-Président (M. Gendron):',
+1682,1683c1682,1683
+<      { speaker: 'Des voix:',
+<        subject: 'Souligner l\'excellence des relations politiques, économiques et culturelles entre le Maroc et le Québec ainsi que l\'ouverture de la maison du Maroc Dar Al-Maghrid à Montréal',
+---
+>      { subject: 'Souligner l\'excellence des relations politiques, économiques et culturelles entre le Maroc et le Québec ainsi que l\'ouverture de la maison du Maroc Dar Al-Maghrid à Montréal',
+>        speaker: 'Des voix:',
+1688,1689c1688,1689
+<      { speaker: 'Le Vice-Président (M. Gendron):',
+<        subject: 'Souligner l\'excellence des relations politiques, économiques et culturelles entre le Maroc et le Québec ainsi que l\'ouverture de la maison du Maroc Dar Al-Maghrid à Montréal',
+---
+>      { subject: 'Souligner l\'excellence des relations politiques, économiques et culturelles entre le Maroc et le Québec ainsi que l\'ouverture de la maison du Maroc Dar Al-Maghrid à Montréal',
+>        speaker: 'Le Vice-Président (M. Gendron):',
+1694,1695c1694,1695
+<      { speaker: 'M. Gautrin:',
+<        subject: 'Procéder à des consultations particulières sur le projet de loi n° 70',
+---
+>      { subject: 'Procéder à des consultations particulières sur le projet de loi n° 70',
+>        speaker: 'M. Gautrin:',
+1700,1701c1700,1701
+<      { speaker: 'Le Vice-Président (M. Gendron):',
+<        subject: 'Procéder à des consultations particulières sur le projet de loi n° 70',
+---
+>      { subject: 'Procéder à des consultations particulières sur le projet de loi n° 70',
+>        speaker: 'Le Vice-Président (M. Gendron):',
+1706,1707c1706,1707
+<      { speaker: 'Une voix:',
+<        subject: 'Procéder à des consultations particulières sur le projet de loi n° 70',
+---
+>      { subject: 'Procéder à des consultations particulières sur le projet de loi n° 70',
+>        speaker: 'Une voix:',
+1712,1713c1712,1713
+<      { speaker: 'Le Vice-Président (M. Gendron):',
+<        subject: 'Procéder à des consultations particulières sur le projet de loi n° 70',
+---
+>      { subject: 'Procéder à des consultations particulières sur le projet de loi n° 70',
+>        speaker: 'Le Vice-Président (M. Gendron):',
+1718,1719c1718,1719
+<      { speaker: 'M. Gautrin:',
+<        subject: 'Procéder à des consultations particulières sur le projet de loi n° 70',
+---
+>      { subject: 'Procéder à des consultations particulières sur le projet de loi n° 70',
+>        speaker: 'M. Gautrin:',
+1724,1725c1724,1725
+<      { speaker: 'Le Vice-Président (M. Gendron):',
+<        subject: 'Procéder à des consultations particulières sur le projet de loi n° 70',
+---
+>      { subject: 'Procéder à des consultations particulières sur le projet de loi n° 70',
+>        speaker: 'Le Vice-Président (M. Gendron):',
+1730,1731c1730,1731
+<      { speaker: 'M. Gautrin:',
+<        subject: 'Procéder à des consultations particulières sur le projet de loi n° 70',
+---
+>      { subject: 'Procéder à des consultations particulières sur le projet de loi n° 70',
+>        speaker: 'M. Gautrin:',
+1736,1737c1736,1737
+<      { speaker: 'Le Vice-Président (M. Gendron):',
+<        subject: 'Procéder à des consultations particulières sur le projet de loi n° 70',
+---
+>      { subject: 'Procéder à des consultations particulières sur le projet de loi n° 70',
+>        speaker: 'Le Vice-Président (M. Gendron):',
+1742,1743c1742,1743
+<      { speaker: 'Le Vice-Président (M. Gendron):',
+<        subject: 'Avis touchant les travaux des commissions',
+---
+>      { subject: 'Avis touchant les travaux des commissions',
+>        speaker: 'Le Vice-Président (M. Gendron):',
+1748,1749c1748,1749
+<      { speaker: 'M. Gautrin:',
+<        subject: 'Avis touchant les travaux des commissions',
+---
+>      { subject: 'Avis touchant les travaux des commissions',
+>        speaker: 'M. Gautrin:',
+1754,1755c1754,1755
+<      { speaker: 'Le Vice-Président (M. Gendron):',
+<        subject: 'Avis touchant les travaux des commissions',
+---
+>      { subject: 'Avis touchant les travaux des commissions',
+>        speaker: 'Le Vice-Président (M. Gendron):',
+1760,1761c1760,1761
+<      { speaker: 'Le Vice-Président (M. Gendron):',
+<        subject: 'Affaires du jour',
+---
+>      { subject: 'Affaires du jour',
+>        speaker: 'Le Vice-Président (M. Gendron):',
+1766,1767c1766,1767
+<      { speaker: 'M. Gautrin:',
+<        subject: 'Ajournement',
+---
+>      { subject: 'Ajournement',
+>        speaker: 'M. Gautrin:',
+1772,1773c1772,1773
+<      { speaker: 'Le Vice-Président (M. Gendron):',
+<        subject: 'Ajournement',
+---
+>      { subject: 'Ajournement',
+>        speaker: 'Le Vice-Président (M. Gendron):',
+1780a1781,1782
+>      '<p align="JUSTIFY">(Suspension de la séance à 9&nbsp;h&nbsp;57)</p>',
+>      '<p align="JUSTIFY">(Reprise à 10 h 13)</p>',
+1781a1784,1789
+>      '<font face="Times New Roman Gras,Times New Roman"><p align="CENTER"><a name="_Toc326925994">Mme Michelle Courchesne</a></p></font>',
+>      '<font face="Times New Roman Gras,Times New Roman"><p align="CENTER"><a name="_Toc326925995">M. Bertrand St-Arnaud</a></p></font>',
+>      '<font face="Times New Roman Gras,Times New Roman"><p align="CENTER"><a name="_Toc326925996">Mme Michelle Courchesne</a></p></font>',
+>      '<font face="Times New Roman Gras,Times New Roman"><p align="CENTER"><a name="_Toc326925997">M. Bertrand St-Arnaud</a></p></font>',
+>      '<font face="Times New Roman Gras,Times New Roman"><p align="CENTER"><a name="Page06752"><a name="_Toc326925998"></a>Mme Michelle Courchesne</a></p></font>',
+>      '<font face="Times New Roman Gras,Times New Roman"><p align="CENTER"><a name="_Toc326926001">Mme Michelle Courchesne</a></p></font>',
+1782a1791,1800
+>      '<font face="Times New Roman Gras,Times New Roman"><p align="CENTER"><a name="_Toc326926002">M. Sylvain Pagé</a></p></font>',
+>      '<font face="Times New Roman Gras,Times New Roman"><p align="CENTER"><a name="Page06753"><a name="_Toc326926003"></a>Mme Michelle Courchesne</a></p></font>',
+>      '<font face="Times New Roman Gras,Times New Roman"><p align="CENTER"><a name="_Toc326926004">M. Sylvain Pagé</a></p></font>',
+>      '<font face="Times New Roman Gras,Times New Roman"><p align="CENTER"><a name="_Toc326926005">Mme Michelle Courchesne</a></p></font>',
+>      '<font face="Times New Roman Gras,Times New Roman"><p align="CENTER"><a name="_Toc326926008">Mme Michelle Courchesne</a></p></font>',
+>      '<p align="JUSTIFY"></p>\tLe Président:',
+>      '<font face="Times New Roman Gras,Times New Roman"><p align="CENTER"><a name="_Toc326926009">M. Bertrand St-Arnaud</a></p></font>',
+>      '<font face="Times New Roman Gras,Times New Roman"><p align="CENTER"><a name="_Toc326926010">Mme Michelle Courchesne</a></p></font>',
+>      '<font face="Times New Roman Gras,Times New Roman"><p align="CENTER"><a name="_Toc326926011">M. Bertrand St-Arnaud</a></p></font>',
+>      '<font face="Times New Roman Gras,Times New Roman"><p align="CENTER"><a name="Page06755"><a name="_Toc326926012"></a>Mme Michelle Courchesne</a></p></font>',
+1783a1802,1809
+>      '<font face="Times New Roman Gras,Times New Roman"><p align="CENTER"><a name="_Toc326926015">Mme Yolande James</a></p></font>',
+>      '<font face="Times New Roman Gras,Times New Roman"><p align="CENTER"><a name="Page06756"><a name="_Toc326926016"></a>M. Nicolas Girard</a></p></font>',
+>      '<font face="Times New Roman Gras,Times New Roman"><p align="CENTER"><a name="_Toc326926017">Mme Yolande James</a></p></font>',
+>      '<font face="Times New Roman Gras,Times New Roman"><p align="CENTER"><a name="_Toc326926018">M. Nicolas Girard</a></p></font>',
+>      '<font face="Times New Roman Gras,Times New Roman"><p align="CENTER"><a name="_Toc326926019">Mme Yolande James</a></p></font>',
+>      '<font face="Times New Roman Gras,Times New Roman"><p align="CENTER"><a name="_Toc326926022">Mme Michelle Courchesne</a></p></font>',
+>      '<font face="Times New Roman Gras,Times New Roman"><p align="CENTER"><a name="Page06758"><a name="_Toc326926023"></a>M. Éric Caire</a></p></font>',
+>      '<font face="Times New Roman Gras,Times New Roman"><p align="CENTER"><a name="_Toc326926024">Mme Michelle Courchesne</a></p></font>',
+1784a1811,1819
+>      '<font face="Times New Roman Gras,Times New Roman"><p align="CENTER"><a name="_Toc326926025">M. Éric Caire</a></p></font>',
+>      '<font face="Times New Roman Gras,Times New Roman"><p align="CENTER"><a name="_Toc326926026">Mme Michelle Courchesne</a></p></font>',
+>      '<font face="Times New Roman Gras,Times New Roman"><p align="CENTER"><a name="Page06759"><a name="_Toc326926029"></a>Mme Michelle Courchesne</a></p></font>',
+>      '<font face="Times New Roman Gras,Times New Roman"><p align="CENTER"><a name="_Toc326926030">Mme Marie Malavoy</a></p></font>',
+>      '<font face="Times New Roman Gras,Times New Roman"><p align="CENTER"><a name="_Toc326926031">M. Jean-Marc Fournier</a></p></font>',
+>      '<font face="Times New Roman Gras,Times New Roman"><p align="CENTER"><a name="_Toc326926032">Mme Marie Malavoy</a></p></font>',
+>      '<font face="Times New Roman Gras,Times New Roman"><p align="CENTER"><a name="_Toc326926033">Mme Michelle Courchesne</a></p></font>',
+>      '<font face="Times New Roman Gras,Times New Roman"><p align="CENTER"><a name="_Toc326926036">M. Jean Charest</a></p></font>',
+>      '<font face="Times New Roman Gras,Times New Roman"><p align="CENTER"><a name="Page06761"><a name="_Toc326926037"></a>Mme Pauline Marois</a></p></font>',
+1785a1821,1828
+>      '<font face="Times New Roman Gras,Times New Roman"><p align="CENTER"><a name="_Toc326926038">M. Jean Charest</a></p></font>',
+>      '<font face="Times New Roman Gras,Times New Roman"><p align="CENTER"><a name="_Toc326926039">Mme Pauline Marois</a></p></font>',
+>      '<font face="Times New Roman Gras,Times New Roman"><p align="CENTER"><a name="_Toc326926040">M. Jean Charest</a></p></font>',
+>      '<font face="Times New Roman Gras,Times New Roman"><p align="CENTER"><a name="_Toc326926041">Mme Pauline Marois</a></p></font>',
+>      '<font face="Times New Roman Gras,Times New Roman"><p align="CENTER"><a name="_Toc326926042">M. Jean Charest</a></p></font>',
+>      '<font face="Times New Roman Gras,Times New Roman"><p align="CENTER"><a name="_Toc326926045">M. Yvon Vallières</a></p></font>',
+>      '<font face="Times New Roman Gras,Times New Roman"><p align="CENTER"><a name="_Toc326926046">M. Bernard Drainville</a></p></font>',
+>      '<font face="Times New Roman Gras,Times New Roman"><p align="CENTER"><a name="_Toc326926047">M. Yvon Vallières</a></p></font>',
+1790a1834
+>      '<font face="Times New Roman Gras,Times New Roman"><p align="CENTER"><a name="_Toc326926059">M. Alexandre Cloutier</a></p></font>',
+1792c1836,1839
+<      '<p></p>' ],
+---
+>      '<font face="Times New Roman Gras,Times New Roman"><p align="CENTER"><a name="_Toc326926060">M. Benoit Charette</a></p></font>',
+>      '<font face="Times New Roman Gras,Times New Roman"><p align="CENTER"><a name="_Toc326926061">Mme Fatima Houda-Pepin</a></p></font>',
+>      '<p></p>',
+>      '<p align="JUSTIFY">(Fin de la séance à 11 h 37)</p>' ],

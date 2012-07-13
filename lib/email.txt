@@ -1,0 +1,27 @@
+# Loading of {{ url }}:<br><br>
+
+*    Session: {{ session }}<br>
+*    Date: {{ date }}<br>
+*    Number: {{ id }}<br>
+*    Status: {{ status }}<br>
+*    Interventions: {{ interventionCount }}<br>
+*    Ignored: {{ ignoredCount }}<br>
+
+<br><br>
+# Statistics:<br><br>
+
+*    Paragraphs: {{ paragraphs }}<br>
+*    Titles: {{ titles }}<br>
+*    Time Markers: {{ timeMarkers }}<br>
+*    New Speakers: {{ newSpeakers }}<br>
+*    Same Speakers: {{ sameSpeakers }}<br>
+*    Ignored: {{ ignored }}<br>
+*    Sum: {{ sum }}<br>
+<br><br>
+# Subjects:<br><br>
+
+<ul>
+  <li>
+    {{{ subjects }}}
+  </li>
+</ul>
