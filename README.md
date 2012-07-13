@@ -2,6 +2,12 @@
 
 Cette librairie extrait les données du site de l'Assemblée Nationale du Québec et les structure dans une base de données MongoDB de manière à les rendre plus facilement exploitables. C'est la fondation sur laquelle repose l'API [assnatapi][].
 
+## Installation
+
+Pré-requis: node version 0.6 et plus, incluant npm.
+
+Faire un `clone` du référentiel, puis: `npm install`.
+
 ## Utilisation
 
 Pour l'instant, cette librairie est en fait un programme de ligne de commande (CLI). Pour extraire les données d'une journée de débats, il faut exécuter la commande suivante (qui suppose l'installation préalable de node.js):
